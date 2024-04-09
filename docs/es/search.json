@@ -1,9 +1,16 @@
 [
   {
+    "objectID": "community.html",
+    "href": "community.html",
+    "title": "Comunidad",
+    "section": "",
+    "text": "Comunidad"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Nosotros",
     "section": "",
-    "text": "Esta es la version espanol"
+    "text": "Sobre nosotros"
   }
 ]

@@ -2,4 +2,4 @@
 title: "Nosotros"
 ---
 
-Esta es la version espanol
+Sobre nosotros

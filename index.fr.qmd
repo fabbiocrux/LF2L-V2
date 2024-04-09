@@ -1,5 +1,17 @@
 ---
-title: "Induex fench"
+title: ""
 ---
 
-Ceci est en français
+
+
+![](assets/1-home/Logo-LF2L.jpg)
+
+
+
+::: {layout="[15,-2,10]" layout-valign="bottom" }
+![](assets/1-home/LF2L-concept.jpg)
+
+:::
+
+
+
