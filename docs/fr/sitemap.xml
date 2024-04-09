@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>/project/green-fablab.fr.html</loc>
+    <lastmod>2024-04-09T10:56:09.492Z</lastmod>
+  </url>
+  <url>
     <loc>/about.html</loc>
-    <lastmod>2024-04-09T10:42:05.376Z</lastmod>
+    <lastmod>2024-04-09T10:56:09.486Z</lastmod>
   </url>
   <url>
     <loc>/index.html</loc>
-    <lastmod>2024-04-09T10:42:05.380Z</lastmod>
+    <lastmod>2024-04-09T10:56:09.492Z</lastmod>
+  </url>
+  <url>
+    <loc>/project/green-fablab.html</loc>
+    <lastmod>2024-04-09T10:56:09.492Z</lastmod>
   </url>
 </urlset>

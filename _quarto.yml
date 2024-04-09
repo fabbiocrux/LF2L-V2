@@ -19,6 +19,12 @@ website:
       - href: team.qmd
         text: Team
 
+      - text: Langes      
+        menu:
+          - text: french
+            url:  fr/
+          - text: Espanol
+            url:  es/
 
   page-footer:
     background: light
