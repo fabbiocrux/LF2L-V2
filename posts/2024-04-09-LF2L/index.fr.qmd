@@ -1,0 +1,16 @@
+---
+title: "Titre d'un post"
+subtitle: "Sous-titre"
+author: 
+  - "FAbio"
+  - "LF2L Team"
+date: 2024-04-09
+categories:
+  - Eventos
+  - Comunidades
+toc: true  
+img: "2017-06-03-OCL.jpeg"
+lang: fr
+---
+
+This is a post

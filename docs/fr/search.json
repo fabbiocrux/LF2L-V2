@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "community.html",
-    "href": "community.html",
-    "title": "Communautés",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "Communautés"
+    "text": "Titre d’un post\n\n\nSous-titre\n\n\n\n\n\n\n\n\n9 avr. 2024\n\n\nFAbio , LF2L Team\n\n\n\n\n\n\nAucun article correspondant"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "A propos",
     "section": "",
     "text": "à propos"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Actualités",
+    "section": "",
+    "text": "Titre d’un post\n\n\nSous-titre\n\n\n\n\n\n\n\n\n9 avr. 2024\n\n\nFAbio , LF2L Team\n\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "posts/2024-04-09-LF2L/index.fr.html",
+    "href": "posts/2024-04-09-LF2L/index.fr.html",
+    "title": "Titre d’un post",
+    "section": "",
+    "text": "This is a post"
+  },
+  {
+    "objectID": "community.html",
+    "href": "community.html",
+    "title": "Communautés",
+    "section": "",
+    "text": "Communautés"
   }
 ]

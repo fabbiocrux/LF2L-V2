@@ -19,12 +19,6 @@ website:
       - href: community.qmd
       - href: project.qmd
       - href: team.qmd
-      - text: Les axes du projet      
-        menu:
-          - text: Évaluation des services écosystémiques rendus par les bords de route
-            url:  project.qmd
-          - text: Nouveaux outils d'orientation stratégique et d'accompagnement à la prise de décision
-            url:  project.qmd
 
 
   page-footer:
