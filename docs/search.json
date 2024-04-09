@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.es.html",
+    "href": "about.es.html",
+    "title": "Nosotros",
+    "section": "",
+    "text": "Esta es la version espanol"
+  },
+  {
+    "objectID": "index.fr.html",
+    "href": "index.fr.html",
+    "title": "Induex fench",
+    "section": "",
+    "text": "Ceci est en français"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LF2L Anglais",
+    "section": "",
+    "text": "This is anglais"
+  },
+  {
+    "objectID": "about.fr.html",
+    "href": "about.fr.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

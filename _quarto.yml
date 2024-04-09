@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  site-url: https://lf2l/fr
+  repo-url: https://github.com/lf2l
+  #repo-actions: [edit, issue]
+  title: "LF2L"
+  navbar:
+    right:
+      - href: index.qmd
+        text: About
+      - href: about.qmd
+        text: News
+      - href: about.qmd
+        text: News  
+      - text: Langes      
+        menu:
+          - text: french
+            url:  /fr/
+          - text: Espanol
+            url:  /es/
+
+  page-footer:
+    background: light
+    left: "Copyright 2023, ERPI Laboratory <br> Powered by [Quarto](https://quarto.org/) v1.3.24"
+    right: 
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twi
+        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
+babelquarto:
+  languagecodes:
+  - name: es
+    text: "Version in es"
+  - name: fr
+    text: "Version in fr"
+  - name: en
+    text: "Version in en"
+  mainlanguage: 'en'
+  languages: ['es', 'fr']
+title-es: title in es
+title-fr: title in fr
+description-es: description in es
+description-fr: description in fr
+author-es: author in es
+author-fr: author in fr
+lang: en
