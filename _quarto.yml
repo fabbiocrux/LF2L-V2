@@ -5,7 +5,7 @@ website:
   favicon: assets/favicon.png
   bread-crumbs: true
   reader-mode: true
-  #site-url: https://example.com
+  site-url: https://fabbiocrux.github.io/LF2L-V2/
   repo-url: https://github.com/lf2l
   #repo-actions: [edit, issue]
   title: "LF2L"
