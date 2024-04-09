@@ -2,11 +2,16 @@ project:
   type: website
   output-dir: docs
 website:
-  site-url: /
+  favicon: assets/favicon.png
+  bread-crumbs: true
+  reader-mode: true
+  #site-url: https://example.com
   repo-url: https://github.com/lf2l
   #repo-actions: [edit, issue]
   title: "LF2L"
   navbar:
+    background: primary
+    foreground: white
     right:
       - href: index.qmd
         text: About
@@ -19,13 +24,6 @@ website:
       - href: team.qmd
         text: Team
 
-      - text: Langes      
-        menu:
-          - text: french
-            url:  fr/
-          - text: Espanol
-            url:  es/
-
   page-footer:
     background: light
     left: "Copyright 2023, ERPI Laboratory <br> Powered by [Quarto](https://quarto.org/) v1.3.24"
@@ -37,8 +35,9 @@ website:
         
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      - cosmo
+      - styles.scss
     toc: true
 
 
