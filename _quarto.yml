@@ -48,6 +48,7 @@ babelquarto:
     text: "Version in en"
   mainlanguage: 'en'
   languages: ['es', 'fr']
+
 title-es: title in es
 title-fr: title in fr
 description-es: description in es
