@@ -14,15 +14,10 @@ website:
     foreground: white
     right:
       - href: index.qmd
-        text: About
       - href: news.qmd
-        text: News
       - href: community.qmd
-        text: Community  
       - href: project.qmd
-        text: Projects
       - href: team.qmd
-        text: Team
 
   page-footer:
     background: light
@@ -54,8 +49,8 @@ babelquarto:
   mainlanguage: 'en'
   languages: ['fr', 'es']
 
-title-fr: Lorraine Fab Living Lab
-title-es: Lorraine Fab Living 
+title-fr: LF2L
+title-es: LF2L
 description-es: description in es
 description-fr: description in fr
 author-es: author in es
