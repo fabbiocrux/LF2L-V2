@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  site-url: https://lf2l/fr
+  site-url: /
   repo-url: https://github.com/lf2l
   #repo-actions: [edit, issue]
   title: "LF2L"
@@ -10,16 +10,15 @@ website:
     right:
       - href: index.qmd
         text: About
-      - href: about.qmd
+      - href: news.qmd
         text: News
-      - href: about.qmd
-        text: News  
-      - text: Langes      
-        menu:
-          - text: french
-            url:  /fr/
-          - text: Espanol
-            url:  /es/
+      - href: community.qmd
+        text: Community  
+      - href: project.qmd
+        text: Projects
+      - href: team.qmd
+        text: Team
+
 
   page-footer:
     background: light
@@ -40,19 +39,21 @@ format:
 
 babelquarto:
   languagecodes:
-  - name: es
-    text: "Version in es"
   - name: fr
-    text: "Version in fr"
+    text: "Français"
+  - name: es
+    text: "Español"
   - name: en
-    text: "Version in en"
+    text: "English"
   mainlanguage: 'en'
-  languages: ['es', 'fr']
+  languages: ['fr', 'es']
 
-title-es: title in es
-title-fr: title in fr
+title-fr: Lorraine Fab Living Lab
+title-es: Lorraine Fab Living 
 description-es: description in es
 description-fr: description in fr
 author-es: author in es
 author-fr: author in fr
 lang: en
+
+

@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lf2l/fr/about.html</loc>
-    <lastmod>2024-04-09T10:31:45.909Z</lastmod>
+    <loc>/about.html</loc>
+    <lastmod>2024-04-09T10:42:04.152Z</lastmod>
   </url>
   <url>
-    <loc>https://lf2l/fr/index.html</loc>
-    <lastmod>2024-04-09T10:31:45.910Z</lastmod>
+    <loc>/index.html</loc>
+    <lastmod>2024-04-09T10:04:28.221Z</lastmod>
+  </url>
+  <url>
+    <loc>/index.es.html</loc>
+    <lastmod>2024-04-09T10:03:59.100Z</lastmod>
+  </url>
+  <url>
+    <loc>/about.es.html</loc>
+    <lastmod>2024-04-08T16:48:11.462Z</lastmod>
+  </url>
+  <url>
+    <loc>/index.fr.html</loc>
+    <lastmod>2024-04-09T10:04:15.822Z</lastmod>
+  </url>
+  <url>
+    <loc>/about.fr.html</loc>
+    <lastmod>2024-04-09T10:45:30.344Z</lastmod>
+  </url>
+  <url>
+    <loc>/community.html</loc>
+    <lastmod>2024-04-09T10:46:10.115Z</lastmod>
+  </url>
+  <url>
+    <loc>/project.html</loc>
+    <lastmod>2024-04-09T10:49:25.775Z</lastmod>
+  </url>
+  <url>
+    <loc>/team.html</loc>
+    <lastmod>2024-04-09T10:49:13.875Z</lastmod>
+  </url>
+  <url>
+    <loc>/news.html</loc>
+    <lastmod>2024-04-09T10:49:47.841Z</lastmod>
   </url>
 </urlset>

@@ -12,5 +12,26 @@
     "title": "LF2L Anglais",
     "section": "",
     "text": "This is anglais"
+  },
+  {
+    "objectID": "about.es.html",
+    "href": "about.es.html",
+    "title": "Nosotros",
+    "section": "",
+    "text": "Esta es la version espanol"
+  },
+  {
+    "objectID": "index.fr.html",
+    "href": "index.fr.html",
+    "title": "Induex fench",
+    "section": "",
+    "text": "Ceci est en français"
+  },
+  {
+    "objectID": "about.fr.html",
+    "href": "about.fr.html",
+    "title": "A propos",
+    "section": "",
+    "text": "About this site"
   }
 ]
