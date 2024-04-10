@@ -12,6 +12,10 @@ website:
   navbar:
     background: primary
     foreground: white
+    left:
+      - icon: linkedin
+        href: https://www.linkedin.com/company/102623341/
+
     right:
       - href: index.qmd
         text: Home
