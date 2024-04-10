@@ -18,16 +18,12 @@ $LF2L-white: #FFFFFF;
 $Yellow-UL: #F0E503;
 
 
-
-
 $primary:   $Purple-LF2L !default;
 
 
 
 /* typefaces */
 // Font LF2L
-
-
 @charset "utf-8";
 @font-face {
   font-family: 'Avenir-Black';
@@ -74,3 +70,15 @@ $font-size-root:              20px !default;
 $font-size-base:              1rem !default; // Assumes the browser default, typically `16px`
 
 
+
+#title-block-header h1{
+  margin-bottom: 0;
+  color: $Purple-LF2L;
+}
+
+
+.quarto-title-block .quarto-title-banner {
+  background-position-y: center;
+  height: 200px;
+  opacity: 100%;
+}
