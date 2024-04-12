@@ -10,5 +10,17 @@
     "items": [
       "/posts/2024-04-09-LF2L/index.html"
     ]
+  },
+  {
+    "listing": "/news.fr.html",
+    "items": [
+      "/posts/2024-04-09-LF2L/index.fr.html"
+    ]
+  },
+  {
+    "listing": "/blog.fr.html",
+    "items": [
+      "/posts/2024-04-09-LF2L/index.fr.html"
+    ]
   }
 ]
