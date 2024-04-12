@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Title of a post for LF2L\n\n\nSubtitle\n\n\n\n\n\n\n\n\nApr 9, 2024\n\n\nFAbio , LF2L Team\n\n\n\n\n\n\nNo matching items"
+    "text": "Banc d’essai collaboration ENSGSI / ERPI et GRT gaz\n\n\nSubtitle\n\n\n\n\n\n\n\n\nApr 9, 2024\n\n\nLF2L Team\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -39,7 +39,7 @@
     "href": "news.html",
     "title": "Recents",
     "section": "",
-    "text": "Title of a post for LF2L\n\n\nSubtitle\n\n\n\n\n\n\n\n\nApr 9, 2024\n\n\nFAbio , LF2L Team\n\n\n\n\n\n\nNo matching items"
+    "text": "Banc d’essai collaboration ENSGSI / ERPI et GRT gaz\n\n\n\nProject\n\n\n\n\n\n\n\nLF2L Team\n\n\nApr 9, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2024-04-09-LF2L/index.fr.html",
@@ -56,10 +56,24 @@
     "text": "Community"
   },
   {
+    "objectID": "posts/2024-04-09-LF2L/index.html",
+    "href": "posts/2024-04-09-LF2L/index.html",
+    "title": "Banc d’essai collaboration ENSGSI / ERPI et GRT gaz",
+    "section": "",
+    "text": "[PROJET] Dans le cadre du partenariat entre l’Ecole Nationale Supérieure en Génie des Systèmes et de l’Innovation (ENSGSI) / l’ERPI | Equipe de Recherche sur les Processus Innovatifs et l’entreprise GRTgaz, un banc d’essai a été conçu et fabriqué par Benjamin Ennesser-Serville au Green Fab Lab (une initiative du LF2L) afin de reproduire les conditions réelles de travail des opérateurs. Ce dispositif d’évaluation par l’usage a permis aux étudiants de 2ème année ingénieur de l’ENSGSI de tester leurs différents prototypes dans le cadre duu module de Conception et Évaluations Itératives.\nCe projet ainsi que les différents prototypes des étudiants seront présentés lors des soutenances du module qui auront lieu le jeudi 11 avril 2024, à partir de 13h45, dans les locaux de l’ENSGSI.\nLe LF2L remercie L’Octroi-Nancy qui rend possible nos actions, Alaa Hassan, Maître de Conférence à l’ENSGSI, ainsi que Sébastien Bourgeois, Sylvain Poulain, Philippe Mannoni et Joel Wagner de GRT gaz pour cette mission."
+  },
+  {
     "objectID": "index.html#inside-of-the-fourth-dimension-of-innovation",
     "href": "index.html#inside-of-the-fourth-dimension-of-innovation",
     "title": "LF2L",
     "section": "Inside of the fourth dimension of Innovation",
     "text": "Inside of the fourth dimension of Innovation\nThe Lorraine Fab Living Lab® (LF2L®) is the pedagogical support of the ENSGSI School and the research platform of the ERPI Laboratory dedicated to the prospective assessment of innovative usages. It supports the creation and achievement of results through an established process based on the usage paradigm bringing together in the same space complementary advanced tools. The originality of the LF2L® is to be able to welcome, support and associate different communities (citizen users, entrepreneurs, researchers, etc.) using a conceptual framework of LF2L taking into consideration the 2D (concept), 3D (object), 4D (evolution scenarios) approaches involving the different type of stakeholders in order to have a foresight usage evaluation of a new concept, technology or project. This approach is useful to accelerate the deployment of industrial or urban demonstrators"
+  },
+  {
+    "objectID": "index.html#recents",
+    "href": "index.html#recents",
+    "title": "LF2L",
+    "section": "Recents",
+    "text": "Recents"
   }
 ]

@@ -61,9 +61,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -104,7 +104,8 @@ const typesetMath = (el) => {
 window.Quarto = {
   typesetMath
 };
-</script>
+</script><meta property="og:title" content="LF2L - Recents">
+<meta property="og:site_name" content="LF2L">
 </head>
 <body class="nav-fixed">
 
@@ -161,27 +162,29 @@ window.Quarto = {
 </ul>
 </div> <!-- /navcollapse -->
           <div class="quarto-navbar-tools">
-  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
-  <div class="quarto-reader-toggle-btn">
-  <i class="bi"></i>
-  </div>
-</a>
 </div>
       </div> <!-- /container-fluid -->
     </nav></header><!-- content --><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5>
+<div class="quarto-listing-category category-default">
+<div class="category" data-category="">All <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="Project">Project <span class="quarto-category-count">(1)</span>
+</div>
+</div>
+</div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><div class="quarto-title">
+<main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><div class="quarto-title">
 <h1 class="title">Recents</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -190,36 +193,36 @@ window.Quarto = {
   
 
 
-</header><div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Eventos,Comunidades" data-listing-date-sort="1712613600000" data-listing-file-modified-sort="1712923494579" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<div class="thumbnail">
-<p><a href="./posts/2024-04-09-LF2L/index.html" class="no-external"></a></p>
-<a href="./posts/2024-04-09-LF2L/index.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top"> </div>
-</a><p><a href="./posts/2024-04-09-LF2L/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2024-04-09-LF2L/index.html" class="no-external">Title of a post for LF2L</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/2024-04-09-LF2L/index.html" class="no-external">Subtitle</a>
-</div>
-<div class="listing-description">
-<a href="./posts/2024-04-09-LF2L/index.html" class="no-external"></a>
+</header><div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Project" data-listing-date-sort="1712613600000" data-listing-file-modified-sort="1712926878324" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="154">
+<a href="./posts/2024-04-09-LF2L/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/2024-04-09-LF2L/img-1.png" class="thumbnail-image card-img" style="height: 150px;"></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Banc d’essai collaboration ENSGSI / ERPI et GRT gaz
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Project'); return false;">
+Project
 </div>
 </div>
-<div class="metadata">
-<a href="./posts/2024-04-09-LF2L/index.html" class="no-external">
+<div class="card-text listing-description">
+[PROJET] Dans le cadre du partenariat entre l’Ecole Nationale Supérieure en Génie des Systèmes et de l’Innovation (ENSGSI) / l’ERPI | Equipe de Recherche sur les Processus…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+LF2L Team
+</div>
 <div class="listing-date">
 Apr 9, 2024
 </div>
-<div class="listing-author">
-FAbio , LF2L Team
+</div>
+</div>
 </div>
 </a>
-</div>
 </div>
 </div>
 <div class="listing-no-matching d-none">
