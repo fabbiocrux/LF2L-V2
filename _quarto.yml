@@ -16,9 +16,8 @@ website:
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/company/102623341/        
+
     right:
-      - href: index.qmd
-        text: Home
       - href: about.qmd
 #      - href: news.qmd
       - href: project.qmd      
@@ -64,17 +63,12 @@ babelquarto:
     text: "Français"
   - name: en
     text: "English"    
-  - name: es
-    text: "Español"
   mainlanguage: 'fr'
-  languages: ['en', 'es']
+  languages: ['en']
 
 title-en: LF2L
-title-es: LF2L
 description-en: description in fr
-description-es: description in es
 author-en: author in fr
-author-es: Autores
 lang: fr
 
 
