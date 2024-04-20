@@ -13,28 +13,40 @@ website:
   navbar:
     background: primary
     foreground: white
-    left:
+    tools:
       - icon: linkedin
-        href: https://www.linkedin.com/company/102623341/
-
+        href: https://www.linkedin.com/company/102623341/        
     right:
       - href: index.qmd
         text: Home
-      - href: about.qmd        
-      - href: news.qmd
+      - href: about.qmd
+#      - href: news.qmd
+      - href: project.qmd      
+      - href: publications.qmd      
       - href: community.qmd
-      - href: project.qmd
       - href: team.qmd
-
 
   page-footer:
     background: light
-    left: "Copyright 2023, ERPI Laboratory <br> Powered by [Quarto](https://quarto.org/) v1.3.24"
-    right: 
+    left: "Copyright 2024, ERPI et ENSGSI <br> Powered by [Quarto](https://quarto.org/) v1.3.24"
+    center: 
       - icon: github
         href: https://github.com/
+      - icon: instagram
+        href: /        
+      - icon: linkedin
+        href: /
       - icon: twitter
-        href: https://twi
+        href: /
+    # right: 
+    #   - icon: github
+    #     href: https://github.com/
+    #   - icon: instagram
+    #     href: /        
+    #   - icon: linkedin
+    #     href: /
+    #   - icon: twitter
+    #     href: /
         
 format:
   html:
@@ -50,19 +62,19 @@ babelquarto:
   languagecodes:
   - name: fr
     text: "Français"
+  - name: en
+    text: "English"    
   - name: es
     text: "Español"
-  - name: en
-    text: "English"
-  mainlanguage: 'en'
-  languages: ['fr', 'es']
+  mainlanguage: 'fr'
+  languages: ['en', 'es']
 
-title-fr: LF2L
+title-en: LF2L
 title-es: LF2L
+description-en: description in fr
 description-es: description in es
-description-fr: description in fr
-author-es: author in es
-author-fr: author in fr
-lang: en
+author-en: author in fr
+author-es: Autores
+lang: fr
 
 

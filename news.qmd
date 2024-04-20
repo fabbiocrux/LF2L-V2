@@ -6,5 +6,5 @@ listing:
   type: grid
   categories: true
   include:
-    lang: en
+    lang: fr
 ---

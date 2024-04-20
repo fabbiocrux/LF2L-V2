@@ -1,7 +1,0 @@
----
-title: "Actualités"
-listing:
-  contents: "posts/*/*.qmd"
-  include:
-    lang: fr
----
