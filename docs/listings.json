@@ -10,5 +10,13 @@
     "items": [
       "/posts/2024-04-09-LF2L/index.fr.html"
     ]
+  },
+  {
+    "listing": "/project.html",
+    "items": [
+      "/projects/extended-reality/index.html",
+      "/projects/green-fablab/index.html",
+      "/projects/open-citizen-lab/index.html"
+    ]
   }
 ]

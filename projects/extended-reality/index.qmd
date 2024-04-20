@@ -1,5 +1,6 @@
 ---
-title: "Green fablab en anglais"
+title: "Extended Realiaty"
+lang: fr
 ---
 
 

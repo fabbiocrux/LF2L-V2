@@ -39,7 +39,7 @@
     "href": "index.html#inside-of-the-fourth-dimension-of-innovation",
     "title": "Accueille",
     "section": "Inside of the fourth dimension of Innovation",
-    "text": "Inside of the fourth dimension of Innovation\nLe Lorraine Fab Living Lab® (LF2L®) est"
+    "text": "Inside of the fourth dimension of Innovation\nLe Lorraine Fab Living Lab® (LF2L®) est le support pédagogique de l’Ecole ENSGSI et la plateforme de recherche du Laboratoire ERPI dédiés à l’évaluation prospective des usages innovants. Il soutient la création et l’obtention de résultats à travers un processus établi basé sur le paradigme de l’usage réunissant dans un même espace des outils avancés complémentaires. L’originalité du LF2L® est de pouvoir accueillir, soutenir et associer différentes communautés (citoyens utilisateurs, entrepreneurs, chercheurs, etc.) en utilisant un cadre conceptuel du LF2L prenant en compte les approches 2D (concept), 3D (objet), 4D (scénarios d’évolution) impliquant les différents types d’acteurs afin d’avoir une évaluation prospective des usages d’un nouveau concept, d’une nouvelle technologie ou d’un nouveau projet. Cette approche est utile pour accélérer le déploiement de démonstrateurs industriels ou urbains."
   },
   {
     "objectID": "news.html",
@@ -47,6 +47,13 @@
     "title": "Recents",
     "section": "",
     "text": "Banc d’essai\n\n\n\nProjet\n\n\n\n\n\n\n\nLF2L Team\n\n\n9 avr. 2024\n\n\n\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "projects/green-fablab/index.html",
+    "href": "projects/green-fablab/index.html",
+    "title": "Green fablab",
+    "section": "",
+    "text": "twitter\n  \n  \n    \n     Github\n  \n\n  \n  \n\nVers une économie circulaire grâce aux espaces de fabrication ouvertes.\nLe concept de Green Fablab est lié au croisement de plusieurs tendances sociétales tels que l’interêt croisant pour l’impression 3D, le développement des espaces d’open innovation (e.g. fablabs, living labs) et la prise de conscience croissante de protéger l’environnement et de soutenir un développement durable. Aujourd’hui, la création d’une filière locale de recyclage est une des pistes majeures pour formaliser une approche distribuée de la réutilisation de matières plastiques. L’intégration de ces matières recyclées dans ces espaces de co-création permet de considérer ces déchets comme des gisements et de les transformer en “nouvelles matières premières”. Le concept de Green FabLab s’appuie dès lors sur les principes de l’économie circulaire et collaborative, modèle qui est à présent essentiel pour faire face aux défis actuels de la société."
   },
   {
     "objectID": "communities/index.html",
@@ -257,5 +264,12 @@
     "title": "Practical info of Lorraine Fab Living Lab",
     "section": "Contact information",
     "text": "Contact information\n\n&lt;a href=\"https://lf2l.wufoo.com/forms/mspzvpa1bdexyq/\"&gt; Fill out my Wufoo form! &lt;/a&gt;"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Initiatives",
+    "section": "",
+    "text": "Extended Realiaty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGreen fablab\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Citzen Labs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAucun article correspondant"
   }
 ]

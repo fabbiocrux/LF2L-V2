@@ -1,5 +1,12 @@
 ---
 title: "Initiatives"
+listing:
+  contents: "projects/*/*.qmd"
+  include:
+    lang: fr
 ---
+
+
+
 
 
