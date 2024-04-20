@@ -1,5 +1,5 @@
 ---
-title: "Extended Realiaty"
+title: "Extended Reality"
 lang: fr
 ---
 

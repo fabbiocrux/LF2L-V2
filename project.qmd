@@ -1,12 +1,39 @@
 ---
 title: "Initiatives"
 listing:
+  id: projects-lf2L
   contents: "projects/*/*.qmd"
+  sort:
+    - "title asc"
+  image-align: left
+  field-display-names:
+    title: "Report"  
+  categories: true
   include:
     lang: fr
 ---
 
 
+
+# Contribution du LF2L  
+
+## Pour la Recherche Scientifique
+
+
+## Pour la Pédagogie Innovat
+
+
+
+hflkdqhfqlkdh
+
+
+
+#
+
+
+
+::: {#projects-lf2L}
+:::
 
 
 

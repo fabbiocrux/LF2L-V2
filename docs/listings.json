@@ -12,9 +12,12 @@
     ]
   },
   {
+    "listing": "/projects/green-fablab/index.html",
+    "items": []
+  },
+  {
     "listing": "/project.html",
     "items": [
-      "/projects/extended-reality/index.en.html",
       "/projects/extended-reality/index.html",
       "/projects/green-fablab/index.html",
       "/projects/open-citizen-lab/index.html"
