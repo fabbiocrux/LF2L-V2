@@ -1,16 +1,20 @@
 project:
   type: website
   output-dir: docs
+
+
 website:
-  favicon: assets/favicon.png
+  favicon: assets/favicon.png  
   bread-crumbs: true
   reader-mode: false
   open-graph: true
   site-url: https://fabbiocrux.github.io/LF2L-V2/
   repo-url: https://github.com/lf2l
   #repo-actions: [edit, issue]
-  title: "LF2L"
+  title: ""
   navbar:
+    logo: images/UL-ENSGSI-ERPI.svg
+    pinned: false
     background: primary
     foreground: white
     tools:
@@ -48,11 +52,14 @@ website:
     #     href: /
         
 format:
-  html:
+  html:    
+    #include-in-header: assets/header.html  
+    #include-before-body: assets/header.html  
     page-layout: full
     theme:
-      - cosmo
+      - cosmo          
       - styles.scss
+    css: assets/fabio.css  
     toc: true
 
 

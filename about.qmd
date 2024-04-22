@@ -1,20 +1,23 @@
 ---
 title: "A propos"
+#subtitle: "test"
 ---
 
-# L'approche Fab Living Lab
+# Présentation du Concept du LF2L
 
-::: {layout="[60,40]"}
+## Plateforme mixte "Fablab" et "Living Lab"
 
+
+::: {layout="[50,40]"}
 Placé sous le haut-patronage de l’Université de Lorraine et du Grand Nancy, le Lorraine Fab Living Lab® constitue une plate-forme d’évaluation prospective des usages et de l’acceptabilité de l’Innovation. Il est implanté sur le Technopôle Renaissance, au cœur de la ville et de la vie nancéienne.
 Impulsé et piloté par l’Equipe de Recherche sur les Processus Innovatifs (Laboratoire ERPI) et l’ENSGSI (Ecole Nationale d’Ingénieurs en Innovation), le Lorraine Fab Living Lab® regroupe des dispositifs d’accélération de la création et de l’innovation collaborative pour les usages de demain.
 
-![](assets/img/2-concept/en/Figure-2.jpg){width=100% fig-align="left"}
+![](images/2-concept/fr/Figure-2.jpg){width=100% fig-align="left"}
 :::
 
 
 ::: {layout="[40,60]"}
-![](assets/img/2-concept/en/Figure-1.jpg)
+![](images/2-concept/fr/Figure-1.jpg)
 
 Le Lorraine Fab Living Lab® supporte la création et l’utilisation de « démonstrateurs » de nouveaux produits, procédés, services, organisations mobilisant entreprises, territoires et universitaires pour des territoires créatifs et durables. Il s’ancre très concrètement sur des expérimentations réussies basées sur les concepts de Living Lab (intégration des usagers dans la conception et les approches collaboratives) et FabLab (Fabrication Laboratory), espace ouvert et fonctionnel de prototypage, au sens du concept d’atelier de fabrication numérique initié par le MIT (Massachussetts Institute of Technology).
 
@@ -22,7 +25,7 @@ Le Lorraine Fab Living Lab® supporte la création et l’utilisation de « dém
 
 <br><br>
 
-![](assets/img/2-concept/en/Figure-3.jpg)
+![](assets/img/2-concept/en/Figure-3.jpg){width=80% fig-align="centre"}
 
 Ces expérimentations sont issues du projet Lorraine Smart Cities Living Lab engagé dès 2008 et labellisé en 2010 par le réseau européen des Living Labs ENoLL et le 1er FabLab Français installé au sein d’une école d’ingénieur et reconnu par la Fab Foundation dès 2011.
 
@@ -48,16 +51,27 @@ Au travers de ce projet, l’Université de Lorraine transfère aux territoires 
 
 
 
-# Chartes
+
+
+
+## Plateforme issue d'une initiative de l'ENSGSI et de l'ERPI.
 
 
 
 
 
-# Partners
+
+# Retrospective de l'histoire du LF2L
+
+> à travailler avec des photos et quelque lignes comme une frise chronologique
+ - 5 images (a voir avec Anne sur des photos anciennes.)
+ - 
 
 
-![](/uploads/2020/11/27/partner-lf2l-2020-en.png)
+
+
+
+
 
 
 

@@ -22,5 +22,25 @@
       "/projects/green-fablab/index.html",
       "/projects/open-citizen-lab/index.html"
     ]
+  },
+  {
+    "listing": "/index.en.html",
+    "items": [
+      "/posts/2024-04-09-LF2L/index.html",
+      "/posts/2018-04-09-ENOLL/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.en.html",
+    "items": [
+      "/posts/2024-04-09-LF2L/index.fr.html"
+    ]
+  },
+  {
+    "listing": "/news.en.html",
+    "items": [
+      "/posts/2018-04-09-ENOLL/index.html",
+      "/posts/2024-04-09-LF2L/index.html"
+    ]
   }
 ]

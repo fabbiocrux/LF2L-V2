@@ -1,18 +1,21 @@
 ---
-title: "Accueille"
+title: "Lorraine Fab Living Lab"
 page-navigation: false
 toc: false
 
 about:
-  id: hero-LF2L
+  id: hero-LF2L  
   template: trestles
   image: assets/1-home/LF2L-concept.jpg
   links:
-    - icon: twitter
-      text: twitter
+    - icon: images/1-home/Test.png 
+      text: test
       href: https://twitter.com
     - icon: github
-      text: Github
+      text: ERPI
+      href: https://github.com
+    - icon: github
+      text: ENSGSI
       href: https://github.com
 
 ---
@@ -20,6 +23,8 @@ about:
 :::{.column-body-outset}
 ![](assets/1-home/Logo-LF2L.jpg)
 :::
+
+
 
 
 
