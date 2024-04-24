@@ -6,19 +6,27 @@ toc: false
 about:
   id: hero-LF2L  
   template: trestles
-  image: assets/1-home/LF2L-concept.jpg
+  image: images/1-home/LF2L-concept-00.jpg
   links:
     - text: "![ENSGSI](images/Avatar-ENSGSI.png)"
       href: https://ensgsi.univ-lorraine.fr/
     - text: "![ENSGSI](images/Avatar-ERPI.png)"
       href: https://erpi.univ-lorraine.fr/
 
+
+listing:
+  contents: "posts/*/*.qmd"
+  sort: "date desc"
+  type: grid
+  categories: false
+  include:
+    lang: fr
+
 ---
 
 :::{.column-body-outset}
-![](assets/1-home/Logo-LF2L.jpg)
+![](images/1-home/Logo-LF2L.jpg)
 :::
-
 
 
 :::{#hero-LF2L}

@@ -1,17 +1,16 @@
 ---
 title: ""
+
+
 about:
-  id: hero-LF2L
+  id: hero-LF2L  
   template: trestles
   image: assets/1-home/LF2L-concept.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
-toc: false          
+    - text: "![ENSGSI](images/Avatar-ENSGSI.png)"
+      href: https://ensgsi.univ-lorraine.fr/
+    - text: "![ENSGSI](images/Avatar-ERPI.png)"
+      href: https://erpi.univ-lorraine.fr/
 
 listing:
   contents: "posts/*/*.qmd"
