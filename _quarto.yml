@@ -61,6 +61,8 @@ format:
       - styles.scss
     css: assets/fabio.css  
     toc: true
+    template-partials: 
+      - partials/title-block.html  
 
 
 

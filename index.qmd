@@ -30,8 +30,7 @@ Le **Lorraine Fab Living Lab® (LF2L®)** est le support pédagogique de l'[Ecol
 
 
 
-
-# Actualités
+# Actualités {.center}
 
 
 

@@ -1,9 +1,10 @@
 ---
-title: "A propos"
+title: "À propos"
+title-fr: "Présentation du Concept du LF2L"
 #subtitle: "test"
+title-block-banner: false
 ---
 
-# Présentation du Concept du LF2L
 
 ## Plateforme mixte "Fablab" et "Living Lab"
 
@@ -32,14 +33,14 @@ Ces expérimentations sont issues du projet Lorraine Smart Cities Living Lab eng
 > Cet espace permet de co-créer, prototyper et tester des produits et services rêvés par des citoyens et des entreprises soucieux de participer ensemble à l’amélioration des territoires créatifs de demain.
 
 
-## Entrez dans la 4ème dimension de l’Innovation !
+### Entrez dans la 4ème dimension de l’Innovation !
 
 Le Lorraine Fab Living Lab® permet de créer à la demande et d’obtenir des résultats immédiats grâce à un processus établi, basé notamment sur le paradigme de l’usage. En réunissant en un même espace des outils de pointe complémentaires, le Lorraine Fab Living Lab® facilite le travail de réflexion collaborative et de développement de l’innovation. Ainsi, l’originalité du Lorraine Fab Living Lab® est d’accueillir et d’accompagner différentes communautés de pratiques (citoyens utilisateurs, entrepreneurs, chercheurs, institutionnels, etc.) via un dispositif scientifique et technique capable de multiplier les interfaces pour intégrer la dimension de l’usage selon les phases du projet. Le LF2L® permet ainsi d’accélérer le passage de l’idée ou concept abstrait (2D) à leur matérialisation (3D virtuelle ou prototypée) en les évaluant (4D – scénarios d ’évolution). Les recherches nous ont par ailleurs conduit à développer des dispositifs immersifs pour assurer une connexion régulière aux situations réelles d’usage.
 
 >Initier, animer une dynamique de réflexion collective sur notre environnement de vie et apporter des réponses partagées est l’enjeu prioritaire auquel veulent répondre les acteurs du Lorraine Fab Living Lab®.
 
 
-## Ils nous ont fait confiance :
+### Ils nous ont fait confiance :
 
 Au travers de ce projet, l’Université de Lorraine transfère aux territoires ses connaissances, outils et méthodologies pour accompagner le développement de leur capacité à innover. Séduites par le projet Lorraine Fab Living Lab® en adéquation avec leurs thématiques de recherche, deux chaires bénéficient désormais de la plate-forme : la Chaire de Recherche PRINCIP (labélisée par le Fond pour l’Innovation dans l’Industrie) dédiée aux PME, et la Chaire Collaborative REVES (supportée par ENEDIS, EDF, la Métropole Grand Nancy, la CCPHVA), déployant le concept de Smart Cities pour proposer des solutions aux nouveaux enjeux sociétaux que vivent les villes et les territoires.
 
@@ -52,9 +53,7 @@ Au travers de ce projet, l’Université de Lorraine transfère aux territoires 
 
 
 
-
-
-## Plateforme issue d'une initiative de l'ENSGSI et de l'ERPI.
+# Plateforme issue d'une initiative de l'ENSGSI et de l'ERPI.
 
 
 
@@ -77,7 +76,17 @@ Au travers de ce projet, l’Université de Lorraine transfère aux territoires 
 
 
 
-## Sources
+
+
+:::::: {.callout-tip}
+
+Qualeque lectures sur l'ingénierie Fab Living Lab:
+
+* Dupont L.,Morel, L.,Lhoste, P., [Le Lorraine Fab Living Lab : la 4ème dimension de l’innovation. In Actes des sessions du colloque Science & You](https://hal.archives-ouvertes.fr/hal-01331610), France, Nancy, June 3-5th, 2015, pp. 230-235. Papier LF2L. Lien vers les actes complets
+
+
+
+
 
 * Boutillier S., Capdevila I., Dupont L., Morel L. Espaces et nouvelles formes d’organisation du travail créatif. Innovations - Revue d’économie et de management de l'innovation, De Boeck Supérieur, 2020, N°61 (1), pp.5-13. [https://doi.org/10.3917/inno.061.0005](https://doi.org/10.3917/inno.061.0005) [⟨hal-02446557⟩](https://hal.archives-ouvertes.fr/hal-01987047)
 
@@ -93,9 +102,9 @@ Au travers de ce projet, l’Université de Lorraine transfère aux territoires 
 
 * Morel, L., Dupont, L., Lhoste, P., [When innovation supported by fab labs becomes a tool for territorial economic development: example of the first mobile fab lab in France](https://hal.archives-ouvertes.fr/hal-01333488). Conference Proceedings of the 24th International Conference on Management of Technology. Cape Town, South Africa, June 8-10, 2015, pp. 772-786.
 
-* F. Osorio Bustamante, J. I. Peña Reyes, M. Camargo, and L. Dupont, “[Spaces to foster and sustain innovation: Towards a conceptual framework](https://doi.org/10.1109/ICE.2015.7438661),” in 2015 International Conference on Engineering, Technology and Innovation (ICE), 2015.
+* F. Osorio Bustamante, J. I. Peña Reyes, M. Camargo, and L. Dupont, “[Spaces to foster and sustain innovation: Towards a conceptual framework](https://doi.org/10.1109/ICE.2015.7438661),” in 2015 International Conference on Engineering, Technology and Innovation (ICE), 2015. 
 
-
+:::
 
 
 
