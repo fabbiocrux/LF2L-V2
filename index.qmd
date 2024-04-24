@@ -8,23 +8,16 @@ about:
   template: trestles
   image: assets/1-home/LF2L-concept.jpg
   links:
-    - icon: images/1-home/Test.png 
-      text: test
-      href: https://twitter.com
-    - icon: github
-      text: ERPI
-      href: https://github.com
-    - icon: github
-      text: ENSGSI
-      href: https://github.com
+    - text: "![ENSGSI](images/Avatar-ENSGSI.png)"
+      href: https://ensgsi.univ-lorraine.fr/
+    - text: "![ENSGSI](images/Avatar-ERPI.png)"
+      href: https://erpi.univ-lorraine.fr/
 
 ---
 
 :::{.column-body-outset}
 ![](assets/1-home/Logo-LF2L.jpg)
 :::
-
-
 
 
 

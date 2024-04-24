@@ -3,3 +3,12 @@
     width: auto;
     padding-right: 4px;
 }
+
+
+/* Modificando el borde de los vinculos about */
+
+div.quarto-about-trestles .about-entity .about-link {
+    color: #626d78;
+    text-decoration: none;
+    border: solid 0px
+}
