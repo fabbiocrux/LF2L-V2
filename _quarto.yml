@@ -13,7 +13,7 @@ website:
   #repo-actions: [edit, issue]
   title: ""
   navbar:
-    logo: images/UL-ENSGSI-ERPI.svg
+    logo: images/LF2l-Navigation.svg
     pinned: false
     background: primary
     foreground: white
