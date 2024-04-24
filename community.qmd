@@ -13,11 +13,17 @@ Des chercheurs permanents du laboratoire travaillent entre autres choses sur la 
 
 Le LF2L® accueille ainsi les travaux de la Chaire de Recherche PRINCIP (labélisée par le Fond pour l’Innovation dans l’Industrie) dédiée aux PME, et de la Chaire Collaborative REVES (Renaissance Ecologique des Villes), supportée par ENEDIS, EDF, la Métropole du Grand Nancy, la CCPHVA, déployant le concept de Smart City pour proposer des solutions aux nouveaux enjeux sociétaux que vivent les villes et les territoires.
 
+::: {.callout-note}
 ### Vous êtes chercheur ?
 
-La plateforme LF2L® vous intéresse dans le cadre de vos recherches, vous souhaitez collaborer avec le laboratoire ERPI ou participer à l’un de ses programmes de recherche – contactez **Laurent Dupont : l.dupont[at]univ-lorraine.fr**
+La plateforme LF2L® vous intéresse dans le cadre de vos recherches, vous souhaitez collaborer avec le laboratoire ERPI ou participer à l’un de ses programmes de recherche :
+
+Contactez **Laurent Dupont : l.dupont[at]univ-lorraine.fr**
 
 Pour savoir plus sur notre travail, consultez nos [publications scientifiques ](/publications)
+
+:::
+
 
 
 # Institutions et collectivités territoriales
@@ -40,7 +46,7 @@ Métropole du Grand Nancy élu Territoire Innovant OR en décembre 2016 par les 
 ## Incarnez vos projets ! Créez votre espace d'innovation, adapté à votre écosystème !
 
 
-:::::: {.callout-tip}
+::: {.callout-tip}
 
 Fort de ses 15 années d'expérience, le LF2L et l'équipe de l'[ERPI](https://erpi.univ-lorraine.fr/) vous accompagne dans la création de votre espace d'innovation sur mesure : parrainage, conseils, partenariat, recherche. En France, mais aussi à l'étranger !. Pour plus de détails:
 

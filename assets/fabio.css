@@ -12,3 +12,9 @@ div.quarto-about-trestles .about-entity .about-link {
     text-decoration: none;
     border: solid 0px
 }
+
+
+ figure figcaption {
+    /* border: 1px dotted blue; */
+    text-align: center;
+}
