@@ -2,7 +2,11 @@
 title: "À propos"
 title-fr: "Présentation du Concept du LF2L"
 #subtitle: "test"
-title-block-banner: false
+#format:
+#  html:    
+#    template-partials: 
+#      - partials/title-block.html  
+title-block-banner: images/banners/bg-header.png
 ---
 
 

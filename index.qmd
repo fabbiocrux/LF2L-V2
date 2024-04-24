@@ -1,5 +1,6 @@
 ---
-title: "Lorraine Fab Living Lab"
+title: "![](images/1-home/Logo-LF2L.png){width='80%' fig-align='center'}"
+#subtitle: "![](images/1-home/Logo-LF2L.png){width='80%' fig-align='center'}"
 page-navigation: false
 toc: false
 
@@ -7,11 +8,6 @@ about:
   id: hero-LF2L  
   template: trestles
   image: images/1-home/LF2L-concept-00.jpg
-  links:
-    - text: "![ENSGSI](images/Avatar-ENSGSI.png)"
-      href: https://ensgsi.univ-lorraine.fr/
-    - text: "![ENSGSI](images/Avatar-ERPI.png)"
-      href: https://erpi.univ-lorraine.fr/
 
 
 listing:
@@ -23,32 +19,57 @@ listing:
   include:
     lang: fr
 
+title-block-banner: rgba(255, 255, 255, 1)
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 22vh;
+      }
+      .quarto-title-block .quarto-title-banner::before {
+        background-image: url(images/banners/banner01.jpg);
+        background-size: cover;
+        content: "";
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
+        left: 0px;
+        opacity: 0.25;
+        }
+
+      </style>
 ---
 
-:::{.column-body-outset}
-![](images/1-home/Logo-LF2L.jpg)
-:::
 
+## Entrez dans la 4ème Helix de l’Innovation {style="text-align:center"}
 
 :::{#hero-LF2L}
 
-## Entrez dans la 4ème dimension de l’Innovation
-
 Le **Lorraine Fab Living Lab® (LF2L®)** est le support pédagogique de l'[Ecole ENSGSI](https://ensgsi.univ-lorraine.fr/) et la plateforme de recherche du [Laboratoire ERPI](https://erpi.univ-lorraine.fr/) dédiés à l'évaluation prospective des usages innovants. Il soutient la création et l'obtention de résultats à travers un processus établi basé sur le paradigme de l'usage réunissant dans un même espace des outils avancés complémentaires.  
 
-L'originalité du LF2L® est de pouvoir accueillir, soutenir et associer différentes communautés (citoyens utilisateurs, entrepreneurs, chercheurs, etc.) en utilisant un cadre conceptuel du LF2L prenant en compte les approches 2D (concept), 3D (objet), 4D (scénarios d'évolution) impliquant les différents types d'acteurs afin d'avoir une évaluation prospective des usages d'un nouveau concept, d'une nouvelle technologie ou d'un nouveau projet. Cette approche est utile pour accélérer le déploiement de démonstrateurs industriels ou urbains.
+[Pour en savoir plus](/about.html){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip" }
 
+
+::: {layout-nrow=1}
+![[](https://ensgsi.univ-lorraine.fr/) ](images/logos/ENSGSI-Horizontal.png)
+
+![[](https://erpi.univ-lorraine.fr/)](images/logos/ERPI-Horizontal.svg)
 :::
 
 
----
 
+
+:::
 
 
 # Actualités {.center}
 
 ::: {#recents}
 :::
+
+
 
 
 

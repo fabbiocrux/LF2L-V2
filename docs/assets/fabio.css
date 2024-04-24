@@ -18,3 +18,16 @@ div.quarto-about-trestles .about-entity .about-link {
     /* border: 1px dotted blue; */
     text-align: center;
 }
+
+#title-block-header.quarto-title-block.default .quarto-title .title {
+    margin-bottom: 0;
+    text-align: center;
+    margin-top: 7vh;
+}
+
+
+p.subtitle {
+    margin-top: .25em;
+    margin-bottom: .5em;
+    text-align: center;
+}
