@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Extended Reality</title>
+<title>Lorraine Fab Living Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<link href="../../assets/favicon.png" rel="icon" type="image/png">
-<script src="../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./assets/favicon.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,10 +68,68 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Recherche"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-recents .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="../../assets/fabio.css">
-<meta property="og:title" content="Extended Reality">
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-recents'] = new List('listing-recents', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="assets/fabio.css">
+<meta property="og:title" content="Lorraine Fab Living Lab">
 </head>
 
 <body class="nav-fixed">
@@ -80,8 +139,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../images/LF2l-Navigation.svg" alt="" class="navbar-logo">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/LF2l-Navigation.svg" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Recherche"></div>
@@ -91,23 +150,23 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">À propos</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../project.html"> 
+    <a class="nav-link" href="./project.html"> 
 <span class="menu-text">Initiatives</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../publications.html"> 
-<span class="menu-text">Dissemination</span></a>
+    <a class="nav-link" href="./publications.html"> 
+<span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../community.html"> 
+    <a class="nav-link" href="./community.html"> 
 <span class="menu-text">Communautés</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../team.html"> 
+    <a class="nav-link" href="./team.html"> 
 <span class="menu-text">Équipe</span></a>
   </li>  
 </ul>
@@ -122,33 +181,155 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content page-columns page-full column-page" id="quarto-document-content">
 
+
+
+
+<div class="column-body-outset">
+<p><img src="images/1-home/Logo-LF2L.jpg" class="img-fluid"></p>
+</div>
+<div class="quarto-about-trestles content column-page">
+  <div class="about-entity">
+    <img src="images/1-home/LF2L-concept-00.jpg" class="about-image
+  rounded " style="width: 20em;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Extended Reality</h1>
+<h1 class="title">Lorraine Fab Living Lab</h1>
+</div>
+<div class="quarto-title-meta column-page">
+  </div>
+</header>
+    <div class="about-links">
+  <a href="https://ensgsi.univ-lorraine.fr/" class="about-link" rel="" target="">
+     <span class="about-link-text"><img src="images/Avatar-ENSGSI.png" class="img-fluid" alt="ENSGSI"></span>
+  </a>
+  <a href="https://erpi.univ-lorraine.fr/" class="about-link" rel="" target="">
+     <span class="about-link-text"><img src="images/Avatar-ERPI.png" class="img-fluid" alt="ENSGSI"></span>
+  </a>
+</div>
+  </div>
+  <div class="about-contents"><div id="hero-LF2L">
+<section id="entrez-dans-la-4ème-dimension-de-linnovation" class="level2">
+<h2 data-anchor-id="entrez-dans-la-4ème-dimension-de-linnovation">Entrez dans la 4ème dimension de l’Innovation</h2>
+<p>Le <strong>Lorraine Fab Living Lab® (LF2L®)</strong> est le support pédagogique de l’<a href="https://ensgsi.univ-lorraine.fr/">Ecole ENSGSI</a> et la plateforme de recherche du <a href="https://erpi.univ-lorraine.fr/">Laboratoire ERPI</a> dédiés à l’évaluation prospective des usages innovants. Il soutient la création et l’obtention de résultats à travers un processus établi basé sur le paradigme de l’usage réunissant dans un même espace des outils avancés complémentaires.</p>
+<p>L’originalité du LF2L® est de pouvoir accueillir, soutenir et associer différentes communautés (citoyens utilisateurs, entrepreneurs, chercheurs, etc.) en utilisant un cadre conceptuel du LF2L prenant en compte les approches 2D (concept), 3D (objet), 4D (scénarios d’évolution) impliquant les différents types d’acteurs afin d’avoir une évaluation prospective des usages d’un nouveau concept, d’une nouvelle technologie ou d’un nouveau projet. Cette approche est utile pour accélérer le déploiement de démonstrateurs industriels ou urbains.</p>
+<p><a href="Pour en savoiri plus" class="btn"></a></p>
+</section>
+</div></div>
+</div>
+
+<hr>
+<section id="actualités" class="level1 center">
+<h1 class="center">Actualités</h1>
+<div id="listing-recents" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Projet" data-listing-date-sort="1712613600000" data-listing-file-modified-sort="1713101073333" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="154">
+<a href="./posts/2024-04-09-LF2L/index.fr.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="posts/2024-04-09-LF2L/img-1.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title" data-anchor-id="actualités">
+Banc d’essai
+</h5>
+<div class="card-text listing-description">
+Dans le cadre du partenariat entre l’Ecole Nationale Supérieure en Génie des Systèmes et de l’Innovation (ENSGSI) / l’ERPI | Equipe de Recherche sur les Processus Innovatifs…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+LF2L Team
+</div>
+<div class="listing-date">
+9 avr. 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+Aucun article correspondant
+</div>
+</div>
+</section>
+<section id="a-propos" class="level1 center">
+<h1 class="center">A propos</h1>
+</section>
+<section id="réseaux" class="level1">
+<h1>Réseaux</h1>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/logos/ENOLL.svg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://enoll.org/">European Network of Living Labs - ENOLL</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/logos/RFF.svg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://rfflabs.fr/">Réseau Français des Fablabs - RFFLabs</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/logos/pil.svg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://pluginlabs.univ-lorraine.fr/fiche/lorraine-fab-living-lab/">Plug In Labs Lorraine</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/logos/ll.svg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://www.learninglab-network.com/espace/lorraine-fab-living-lab/">Learning Lab Network</a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="nos-labels" class="level1">
+<h1>Nos Labels</h1>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-nrow="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/logos/start-lue.png" class="img-fluid figure-img"></p>
+<figcaption>Labélisation STAR LUE</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/logos/MESR.svg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/">Les lieux inspirants de l’Enseignement supérieur</a></figcaption>
+</figure>
+</div>
+</div>
+</div>
 </div>
 
 
 
-<div class="quarto-title-meta column-page">
 
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-
-
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -171,13 +352,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
@@ -553,19 +727,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="../../">
+    <a class="nav-link" href="./">
       <i class="bi bi-instagram" role="img">
 </i> 
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="../../">
+    <a class="nav-link" href="./">
       <i class="bi bi-linkedin" role="img">
 </i> 
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="../../">
+    <a class="nav-link" href="./">
       <i class="bi bi-twitter" role="img">
 </i> 
     </a>

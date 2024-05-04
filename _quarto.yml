@@ -55,12 +55,13 @@ format:
   html:    
     #include-in-header: assets/header.html  
     #include-before-body: assets/header.html  
+    bibliography: assets/bibliography.bib
     page-layout: full
     theme:
       - cosmo          
       - styles.scss
     css: assets/fabio.css  
-    toc: true
+    toc: false
 #    template-partials: 
 #      - partials/title-block.html  
 

@@ -1,5 +1,5 @@
 ---
-title: "Open Citzen Labs"
+title: "Open Citizen Labs"
 lang: fr
 ---
 

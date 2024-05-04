@@ -1,43 +1,73 @@
 ---
 title: "À propos"
-title-fr: "Présentation du Concept du LF2L"
-#subtitle: "test"
-#format:
-#  html:    
-#    template-partials: 
-#      - partials/title-block.html  
-title-block-banner: images/banners/bg-header.png
+title-fr: "Concept du LF2L"
+format:
+ html:    
+   template-partials: 
+     - partials/title-block.html  
+
+title-block-banner: rgba(255, 255, 255, 0.45)
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner::before {
+        background-image: url(images/banners/banner01.jpg);
+        background-size: cover;
+        content: "";
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
+        left: 0px;
+        opacity: 0.25;
+        }
+
+      </style>
 ---
 
 
-## Plateforme mixte "Fablab" et "Living Lab"
+
+# Plateforme issue d'une initiative de l'ENSGSI et de l'ERPI.
+
+Dès le milieu des années 2000, l'[École Nationale Supérieure en Génie des Systèmes et de l'Innovation -ENSGSI-](https://ensgsi.univ-lorraine.fr/en/)  et l’[Équipe de Recherche sur les Processus Innovatifs -ERPI-](https://erpi.univ-lorraine.fr/) se sont intéressés aux concepts émergeants de *Living Lab* et de *Smart City* à travers des questionnements de recherche [@Dupont2009] et par la mise en œuvre de dispositifs et espaces pédagogiques innovants.
+En 2005, l’espace **Cré@ction** au sein de l'ENSGSI a été conçu pour soutenir les processus de créativité et permettre aux élèves-ingénieurs de réaliser des maquettes ou objets intermédiaires de conception (OIC) [@boujut2003].
+En 2009, **InoCité**, plateforme support aux approches Living Lab pour investir les enjeux territoriaux et innover dans la ville.
+Puis en 2011, le **GSI Lab**, $1^{er}$ FabLab dans une école française d’ingénieurs .
+et finalement en 2014, ces espaces ont été fusionnés donnant naissance au **Lorraine Fab Living Lab®** [@osorio2021; @dupont2015], plate-forme d’accélération de l’innovation, un des lieux d’incarnation du Lorraine Smart City Living Lab et d’incubation d’une multitude de Labs.
+
+
 
 
 ::: {layout="[50,40]"}
-Placé sous le haut-patronage de l’Université de Lorraine et du Grand Nancy, le Lorraine Fab Living Lab® constitue une plate-forme d’évaluation prospective des usages et de l’acceptabilité de l’Innovation. Il est implanté sur le Technopôle Renaissance, au cœur de la ville et de la vie nancéienne.
-Impulsé et piloté par l’Equipe de Recherche sur les Processus Innovatifs (Laboratoire ERPI) et l’ENSGSI (Ecole Nationale d’Ingénieurs en Innovation), le Lorraine Fab Living Lab® regroupe des dispositifs d’accélération de la création et de l’innovation collaborative pour les usages de demain.
+Le Lorraine Fab Living Lab® constitue une plate-forme d’évaluation prospective des usages et de l’acceptabilité de l’Innovation. 
+Il est implanté sur le Technopôle Renaissance, au cœur de la ville et de la vie nancéienne.
+Impulsé et piloté par l'[ENSGSI](https://ensgsi.univ-lorraine.fr/en/)  et l’[ERPI](https://erpi.univ-lorraine.fr/)  
+**le Lorraine Fab Living Lab® regroupe des dispositifs d’accélération de la création et de l’innovation collaborative pour les usages de demain.**
 
 ![](images/2-concept/fr/Figure-2.jpg){width=100% fig-align="left"}
 :::
 
 
+## Approche "Fablab" et "Living Lab"
+
 ::: {layout="[40,60]"}
 ![](images/2-concept/fr/Figure-1.jpg)
 
-Le Lorraine Fab Living Lab® supporte la création et l’utilisation de « démonstrateurs » de nouveaux produits, procédés, services, organisations mobilisant entreprises, territoires et universitaires pour des territoires créatifs et durables. Il s’ancre très concrètement sur des expérimentations réussies basées sur les concepts de Living Lab (intégration des usagers dans la conception et les approches collaboratives) et FabLab (Fabrication Laboratory), espace ouvert et fonctionnel de prototypage, au sens du concept d’atelier de fabrication numérique initié par le MIT (Massachussetts Institute of Technology).
+Le Lorraine Fab Living Lab® supporte la création et l’utilisation de « démonstrateurs » de nouveaux produits, procédés, services, organisations mobilisant entreprises, territoires et universitaires pour des territoires créatifs et durables. 
+Il s’ancre très concrètement sur des expérimentations réussies basées sur les concepts de Living Lab (intégration des usagers dans la conception et les approches collaboratives) et FabLab (Fabrication Laboratory), espace ouvert et fonctionnel de prototypage, au sens du concept d’atelier de fabrication numérique initié par le MIT (Massachussetts Institute of Technology).
 
 :::
 
 <br><br>
 
-![](assets/img/2-concept/en/Figure-3.jpg){width=80% fig-align="centre"}
+![](images/2-concept/fr/Figure-3.jpg){width=80% fig-align="center"}
 
 Ces expérimentations sont issues du projet Lorraine Smart Cities Living Lab engagé dès 2008 et labellisé en 2010 par le réseau européen des Living Labs ENoLL et le 1er FabLab Français installé au sein d’une école d’ingénieur et reconnu par la Fab Foundation dès 2011.
 
 > Cet espace permet de co-créer, prototyper et tester des produits et services rêvés par des citoyens et des entreprises soucieux de participer ensemble à l’amélioration des territoires créatifs de demain.
 
 
-### Entrez dans la 4ème dimension de l’Innovation !
+### Entrez dans la 4ème helix de l’Innovation !
 
 Le Lorraine Fab Living Lab® permet de créer à la demande et d’obtenir des résultats immédiats grâce à un processus établi, basé notamment sur le paradigme de l’usage. En réunissant en un même espace des outils de pointe complémentaires, le Lorraine Fab Living Lab® facilite le travail de réflexion collaborative et de développement de l’innovation. Ainsi, l’originalité du Lorraine Fab Living Lab® est d’accueillir et d’accompagner différentes communautés de pratiques (citoyens utilisateurs, entrepreneurs, chercheurs, institutionnels, etc.) via un dispositif scientifique et technique capable de multiplier les interfaces pour intégrer la dimension de l’usage selon les phases du projet. Le LF2L® permet ainsi d’accélérer le passage de l’idée ou concept abstrait (2D) à leur matérialisation (3D virtuelle ou prototypée) en les évaluant (4D – scénarios d ’évolution). Les recherches nous ont par ailleurs conduit à développer des dispositifs immersifs pour assurer une connexion régulière aux situations réelles d’usage.
 
@@ -57,7 +87,7 @@ Au travers de ce projet, l’Université de Lorraine transfère aux territoires 
 
 
 
-# Plateforme issue d'une initiative de l'ENSGSI et de l'ERPI.
+
 
 
 
@@ -66,9 +96,13 @@ Au travers de ce projet, l’Université de Lorraine transfère aux territoires 
 
 # Retrospective de l'histoire du LF2L
 
-> à travailler avec des photos et quelque lignes comme une frise chronologique
+
+
+:::{.callout-caution}
+à travailler avec des photos et quelque lignes comme une frise chronologique
  - 5 images (a voir avec Anne sur des photos anciennes.)
  - 
+:::
 
 
 
@@ -79,7 +113,7 @@ Au travers de ce projet, l’Université de Lorraine transfère aux territoires 
 
 
 
-
+<!-- 
 
 
 :::::: {.callout-tip}
@@ -108,7 +142,7 @@ Qualeque lectures sur l'ingénierie Fab Living Lab:
 
 * F. Osorio Bustamante, J. I. Peña Reyes, M. Camargo, and L. Dupont, “[Spaces to foster and sustain innovation: Towards a conceptual framework](https://doi.org/10.1109/ICE.2015.7438661),” in 2015 International Conference on Engineering, Technology and Innovation (ICE), 2015. 
 
-:::
+::: -->
 
 
 

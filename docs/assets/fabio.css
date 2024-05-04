@@ -6,7 +6,6 @@
 
 
 /* Modificando el borde de los vinculos about */
-
 div.quarto-about-trestles .about-entity .about-link {
     color: #626d78;
     text-decoration: none;
@@ -31,3 +30,5 @@ p.subtitle {
     margin-bottom: .5em;
     text-align: center;
 }
+
+
