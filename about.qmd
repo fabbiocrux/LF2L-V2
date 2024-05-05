@@ -6,7 +6,7 @@ format:
  html:    
    template-partials: 
      - partials/title-block.html  
-
+lightbox: auto
 title-block-banner: rgba(255, 255, 255, 0.45)
 include-in-header:
   - text: |
