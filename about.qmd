@@ -99,6 +99,25 @@ Au travers de ce projet, l’Université de Lorraine transfère aux territoires 
 
 
 
+::: {layout="[[50,50],[30,30,30, 30, 30]]"}
+
+![Photo historique Cre@ction](images/Image-to-find.jpg){group="my-gallery"}
+
+![Photo historique Cre@ction 2](images/Image-to-find.jpg){group="my-gallery"}
+
+![Histoire 0](images/Image-to-find.jpg){group="my-gallery" description="Lorsqu’une problématique est définie, un travail d’animation de groupe permettra de solliciter la créativité d’une équipe autour de brainstormings, road-mappings, afin de couvrir le champ des possibles en termes de réponses à apporter. Une plate-forme numérique a été développéepour aider à la capitalisation et l’archivage des propositions émises par des participants"}
+
+![Histoire 1](images/Image-to-find.jpg){group="my-gallery"}
+
+![Histoire 2](images/Image-to-find.jpg){group="my-gallery"}
+
+![Histoire 3](images/Image-to-find.jpg){group="my-gallery"}
+
+![Histoire 4](images/Image-to-find.jpg){group="my-gallery"}
+:::
+
+
+
 :::{.callout-caution}
 à travailler avec des photos et quelque lignes comme une frise chronologique
  - 5 images (a voir avec Anne sur des photos anciennes.)

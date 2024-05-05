@@ -2,9 +2,9 @@
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "",
+    "title": "Actualités",
     "section": "",
-    "text": "Banc d’essai\n\n\nCollaboration ENSGSI / ERPI et GRT gaz\n\n\n\n\n\n\n\n\n9 avr. 2024\n\n\nLF2L Team\n\n\n\n\n\n\nAucun article correspondant"
+    "text": "Banc d’essai\n\n\nCollaboration ENSGSI / ERPI et GRT gaz\n\n\n\n\n\n\n\n\n9 avr. 2024\n\n\nLF2L Team\n\n\n\n\n\n\n\n\n\n\n\n\n[3 questions] au LF2L, membre de la fédération des espaces d’innovation\n\n\nCollaboration ENSGSI / ERPI et GRT gaz\n\n\n\n\n\n\n\n\n25 avr. 2024\n\n\nFactuel de l’UL\n\n\n\n\n\n\nAucun article correspondant"
   },
   {
     "objectID": "about.html",
@@ -30,9 +30,9 @@
   {
     "objectID": "news.html",
     "href": "news.html",
-    "title": "",
+    "title": "Recents",
     "section": "",
-    "text": "Banc d’essai\n\n\n\nProjet\n\n\n\n\n\n\n\nLF2L Team\n\n\n9 avr. 2024\n\n\n\n\n\n\n\n\nAucun article correspondant"
+    "text": "Aucun article correspondant"
   },
   {
     "objectID": "projects/green-fablab/index.en.html",
@@ -394,21 +394,21 @@
   {
     "objectID": "news.en.html",
     "href": "news.en.html",
-    "title": "",
+    "title": "News",
     "section": "",
-    "text": "ENoLL award: Vote for Lorraine Smart Cities Living Lab!\n\n\nA test\n\n\n\n\n\n\n\n\n9 avr. 2018\n\n\n\n\n\n\n\n\n\n\n\n\nPartnership ENSGSI / ERPI - GRTGaz\n\n\nA test\n\n\n\n\n\n\n\n\n9 avr. 2024\n\n\nLF2L Team\n\n\n\n\n\n\nAucun article correspondant"
+    "text": "Societal challenges, inclusive and sustainable growth: funding via Horizon Europe for your research projects in social and human sciences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAucun article correspondant"
   },
   {
     "objectID": "blog.en.html",
     "href": "blog.en.html",
-    "title": "",
+    "title": "Blog",
     "section": "",
-    "text": "Banc d’essai\n\n\nCollaboration ENSGSI / ERPI et GRT gaz\n\n\n\n\n\n\n\n\n9 avr. 2024\n\n\nLF2L Team\n\n\n\n\n\n\nAucun article correspondant"
+    "text": "Aucun article correspondant"
   },
   {
     "objectID": "index.en.html#inside-of-the-fourth-dimension-of-innovation",
     "href": "index.en.html#inside-of-the-fourth-dimension-of-innovation",
-    "title": "Recents",
+    "title": "Lorraine Fab Living Lab",
     "section": "Inside of the fourth dimension of Innovation",
     "text": "Inside of the fourth dimension of Innovation\nThe Lorraine Fab Living Lab® (LF2L®) is the pedagogical support of the ENSGSI School and the research platform of the ERPI Laboratory dedicated to the prospective assessment of innovative usages. It supports the creation and achievement of results through an established process based on the usage paradigm bringing together in the same space complementary advanced tools.\nThe originality of the LF2L® is to be able to welcome, support and associate different communities (citizen users, entrepreneurs, researchers, etc.) using a conceptual framework of LF2L taking into consideration the 2D (concept), 3D (object), 4D (evolution scenarios) approaches involving the different type of stakeholders in order to have a foresight usage evaluation of a new concept, technology or project. This approach is useful to accelerate the deployment of industrial or urban demonstrators"
   },
@@ -684,5 +684,222 @@
     "title": "Équipe du LF2L",
     "section": "Équipe de Stagiares 2024 - 2024",
     "text": "Équipe de Stagiares 2024 - 2024\n\n\n\n\n\n\n Tamara Dumanyan\n\n\n  Mjellma Luzha"
+  },
+  {
+    "objectID": "posts/2018/2018-11-14-workshop-noremat.html",
+    "href": "posts/2018/2018-11-14-workshop-noremat.html",
+    "title": "Workshop GID Route (Gestion Innovante des dépendances routières)",
+    "section": "",
+    "text": "The impact evaluation on the territory of roadside management was the theme of the Workshop held on October 31 on the Lorraine Fab Living Lab® (LF2L) platform.\n\n\n\nNoremat - ERPI\n\n\nResearchers from the ERPI laboratory of the University of Lorraine and the company NOREMAT welcomed representatives from various institutions and organizations such as the Greater Nancy Metropolis, DIR-Est, Cerema, Scalen, Eurovia, Agroparistech as well as several entrepreneurs in the sector. At the end of the workshop, the importance of valuing the benefits of the different interview strategies emerged, as well as adapting them to the local context. Finally, raising awareness and informing citizens about these benefits is essential in order to change attitudes towards a more sustainable management of roadside verges.\n\n\n\nNoremat - ERPI\n\n\nMore info - Mauricio Camargo: mauricio.camargo{at}univ-lorrainfe.fr - Sandra Batista: sandra.bautista-rodriguez{at}univ-lorrainfe.fr"
+  },
+  {
+    "objectID": "posts/2018/2018-11-23-signature-charte-ville-nancy-lf2l.html",
+    "href": "posts/2018/2018-11-23-signature-charte-ville-nancy-lf2l.html",
+    "title": "Signing of a charter of intent on the creation of a chair with the City of Nancy",
+    "section": "",
+    "text": "On Monday, November 19/2018, the Research Team on Innovative Processes (ERPI)and the ENSGSI had the pleasure of welcoming Laurent HENART, Mayor of the City of Nancy, accompanied by Romain PIERRONNET, Assistant to Education, Schools and Digital City, to the Lorraine Fab Living Lab as part of the signing of a charter of intent on the creation of a chair on collaborative creativity “Innovation territoriale. Governance and collaborative innovation for a creative city”\n{% include gallery id=“Marie-LF2L”\ncaption=“Signature d’une charte d’intention sur la création d’une chaire avec la Ville de Nancy” %}\nThe University of Lorraine was represented by Michel FICK, Vice-President in charge of socio-economic partnerships and territorial development, the ERPI and ENSGSI were represented by their directors, Laure MOREL and Pascal LHOSTE.\nMany past and current collaborations highlight the dynamism of exchanges and synergies between the City of Nancy, ENSGSI and ERPI in the various fields covered by innovation engineering (Products, Services, Processes, Organisations, Business Models. They highlight the ability of the ERPI and ENSGSI teams to support the transformation of public policies through both a mastery of disciplinary and theoretical fields of excellence and the ability to act on the ground as committed citizens.\nFormalizing a partnership will thus make it possible to capitalize, perpetuate and enhance the experiments and transformations carried out on Nancy’s territory.\n{% include gallery id=“Marie-LF2L-2”\ncaption=“Signature d’une charte d’intention sur la création d’une chaire avec la Ville de Nancy” %}"
+  },
+  {
+    "objectID": "posts/2018/04/index.html",
+    "href": "posts/2018/04/index.html",
+    "title": "ENoLL award: Vote for Lorraine Smart Cities Living Lab!",
+    "section": "",
+    "text": "The project is http://linkybymakers.fr/. See https://enoll.org/newsroom/?news-id=3401"
+  },
+  {
+    "objectID": "posts/2020/2020-11-01-GreenFabLab.html",
+    "href": "posts/2020/2020-11-01-GreenFabLab.html",
+    "title": "Plastic at the service of innovation",
+    "section": "",
+    "text": "Professor Hakim Boudaoud was interviewd by Metropoly magazine about the Green Fab Lab project\n\n\n\nArticle"
+  },
+  {
+    "objectID": "posts/2020/2020-12-13-atelier-smagrinet.html",
+    "href": "posts/2020/2020-12-13-atelier-smagrinet.html",
+    "title": "ENSGSI Energy and Territory training week",
+    "section": "",
+    "text": "Feedback on the “Energy and territory” training week at ENSGSI\nPublished, 2020-12-07 on http://factuel.univ-lorraine.fr/node/15749\nFrom November 16 to 20, 2020, a week of “Energy and Territory” workshop took place for the second year in a row as part of the Master 2 Urban Planning and Planning, course Innovation Urbaine pour des villes et territoires en transformation (IUVTT) of l’École nationale supérieure en génie des systèmes et de l’innovation (ENSGSI).\nTwenty-four students (engineering students, town planners, architects, sociologists, community agents, continuing education professionals) benefited from the synergy between the European Smagrinet project (EU Grant agreement 837626) a skills hub on smart grids to stimulate research, innovation and training for the energy transition involving laboratories GREEN and ERPI) and the IMPACT ULHyS project, (Université de Lorraine Hydrogène, science et technologies) de Lorraine Université d’Excellence (LUE), axis Multi-objective optimization of multi-vector energy systems in laboratories LRGP and ERPI.\n\n\nEnergy, a territorial challenge\nStarting from a real case, this workshop confronts students with the current challenges of the energy transition facing territories and companies (energy sector). Through a detailed analysis of the ecosystem and the needs of the players in a territory, the project consists of co-designing and evaluating the potential acceptability of different scenarios for the deployment of distributed energy systems involving production and / or storage solutions. of hydrogen. To support them, participants have access to the most recent research work on hydrogen, smart grids, co-design or even shared decision-making and discussions directly with experts.\nThe students, new to energy issues and smart grids, benefited this year from the training program on Smart Grids intended for manufacturers, the general public and public decision-makers, posted online in October 2020 after a year and a half of work. These courses, accessible free of charge (for the moment in English), are developed by the GREEN and ERPI laboratories as part of Smagrinet.\n\n\n\nMaquette territoire\n\n\n\n\nParticipatory science, a lever for research on energy transition.\nThe challenge for researchers from complementary disciplines is to combine their knowledge and know-how to innovate together in order to train the specialists and professionals of tomorrow while integrating the point of view of users / citizens and public decision-makers.\nThe involvement of researchers in educational workshops enables the students of the University of Lorraine to benefit from the resources of our laboratories as soon as possible.\nConversely, the researchers have feedback on the modalities of leading a participatory science approach face-to-face and online. These meetings also make it possible to detect possible scientific controversies on socio-technical systems by listening to the criticisms and remarks of the participants. The next step is to offer these workshops directly to citizens, users, businesses, communities. In this sense, the Smagrinet team has been involved, for example, since 2019 in the Club Smart Grid du Grand Est to involve local businesses. She also produced a first design analysis by use (Living Lab) of smart grid modules (see conference paper) by increasing the number of workshops with different university training: EDUTER university degree (Economy and sustainable land use planning) and Ingexys IDEAS master’s degree (Innovation and design evaluated by use).\n\n\n\nAtelier de travail\n\n\n\n\nAn innovative educational device\nInitially experienced on the co-design platform LF2L (Lorraine Fab Living Lab®) to combine training via MOOC and active pedagogy on a model and immersive devices, government decisions have required to adapt practices. For this new edition, the teaching team and researchers have transformed the workshop into a week of online interaction, reinforcing the ability to support and associate at a distance.\nThe students were able to follow, on November 19, 2020, the 1st international conference of the European project SMAGRINET “Energy Game Changers”, whose final round table benefited from the testimony of Fabrice Lemoine, “Energies for the future” coordinator of LUE. This exceptional meeting of academic, industrial and institutional experts (European Commission) around energy issues and smart grids made it possible to compare the views of stakeholders and open up many avenues of investigation and action to engage Europe. in reducing its greenhouse gas emissions, notably through an overhaul of its networks and practices in terms of energy production, distribution and consumption.\n\n\n\nAtelier de travail\n\n\nResearchers involved : Laurent Dupont (ERPI, co-responsible for the IUVTT course, scientific manager of LF2L), Mauricio Camargo (ERPI director, ENSGSI), Kévin Berger (GREEN, WP leader Smagrinet), Manon Enjolras ( researcher at ERPI), Alex Gabriel (researcher at ERPI), Juan David Fonscea (PhD student at LUE ULhys), Maxence Arnould (PhD student at ADEME / ERPI / UMR Silva), Melika Hinaje (researcher at GREEN), Damien Guilbert (researcher at GREEN), Ghazi Hajiri (PhD student at GREEN), Rémi Dorget (PhD at GREEN), Valérie Rault (ERPI, ENSGSI), Frédérique Mayer (ERPI, ENSGSI)."
+  },
+  {
+    "objectID": "posts/2021/2021-04-22-Societe-inclusive.html",
+    "href": "posts/2021/2021-04-22-Societe-inclusive.html",
+    "title": "Societal challenges, inclusive and sustainable growth: funding via Horizon Europe for your research projects in social and human sciences",
+    "section": "",
+    "text": "In view of the first calls for projects of the new R&I Horizon Europe framework program announced for this spring, take part in the information sequence on opportunities and expectations in the social and human sciences.\nIn addition to methodological advice and experience sharing, this session will allow you to discover the conditions of participation, the strategic orientations of cluster 2 “Culture, creativity and inclusive society” of pillar 2 of the program, but also the main lines of the calendar. and the expected impacts for the projects to be carried out.\nThis cluster aims to respond to the challenges facing our contemporary societies, whether economic, political, social or cultural. In addition, this cluster aims to demonstrate that European projects are intended to finance research, but beyond the expected scientific output, they must also propose, or even test, concrete solutions. The projects financed must give an important place to the involvement of other stakeholders (for example agents in charge of the implementation of public policies, decision-makers, social workers, companies designing the technical or technological solutions proposed).\nCome and ask all your questions during this sequence which will allow you to better define these themes contributing to the development of an inclusive and sustainable growth model by focusing on three main areas of intervention for the calls for projects to come: democracy and governance , cultural heritage and cultural and creative industries, economic and social transformations.\nWith the interventions of:\nMr. Laurent Dupont, Research Engineer at the ERPI Laboratory (Research Team on Innovative Processes) of the National School of Systems and Innovation Engineering, at the University of Lorraine, Coordinator of the collaborative project INEDIT (open INnovation Ecosystems for Do It Together process) funded by Horizon 2020\nMr. Basudeb Chaudhuri, Representative on Program Committees, Head of Mission for the Humanities and Social Sciences sector, at the Ministry of Higher Education, Research and Innovation\nMr. Jean-Jacques Bernardini, Head of European Affairs Department of the Grand E-Nov + Innovation and International Prospecting Agency, for the DIGIT RRI project"
+  },
+  {
+    "objectID": "posts/2021/2021-04-22-Societe-inclusive.html#jeudi-22-avril-2021-9h00-à-10h30",
+    "href": "posts/2021/2021-04-22-Societe-inclusive.html#jeudi-22-avril-2021-9h00-à-10h30",
+    "title": "Societal challenges, inclusive and sustainable growth: funding via Horizon Europe for your research projects in social and human sciences",
+    "section": "",
+    "text": "In view of the first calls for projects of the new R&I Horizon Europe framework program announced for this spring, take part in the information sequence on opportunities and expectations in the social and human sciences.\nIn addition to methodological advice and experience sharing, this session will allow you to discover the conditions of participation, the strategic orientations of cluster 2 “Culture, creativity and inclusive society” of pillar 2 of the program, but also the main lines of the calendar. and the expected impacts for the projects to be carried out.\nThis cluster aims to respond to the challenges facing our contemporary societies, whether economic, political, social or cultural. In addition, this cluster aims to demonstrate that European projects are intended to finance research, but beyond the expected scientific output, they must also propose, or even test, concrete solutions. The projects financed must give an important place to the involvement of other stakeholders (for example agents in charge of the implementation of public policies, decision-makers, social workers, companies designing the technical or technological solutions proposed).\nCome and ask all your questions during this sequence which will allow you to better define these themes contributing to the development of an inclusive and sustainable growth model by focusing on three main areas of intervention for the calls for projects to come: democracy and governance , cultural heritage and cultural and creative industries, economic and social transformations.\nWith the interventions of:\nMr. Laurent Dupont, Research Engineer at the ERPI Laboratory (Research Team on Innovative Processes) of the National School of Systems and Innovation Engineering, at the University of Lorraine, Coordinator of the collaborative project INEDIT (open INnovation Ecosystems for Do It Together process) funded by Horizon 2020\nMr. Basudeb Chaudhuri, Representative on Program Committees, Head of Mission for the Humanities and Social Sciences sector, at the Ministry of Higher Education, Research and Innovation\nMr. Jean-Jacques Bernardini, Head of European Affairs Department of the Grand E-Nov + Innovation and International Prospecting Agency, for the DIGIT RRI project"
+  },
+  {
+    "objectID": "posts/2021/2021-04-21-Open-innovation.html",
+    "href": "posts/2021/2021-04-21-Open-innovation.html",
+    "title": "Open Innovation for collaborative production engineering",
+    "section": "",
+    "text": "All other informations click here"
+  },
+  {
+    "objectID": "posts/2019/2019-05-06-Joshua-Pearce.html",
+    "href": "posts/2019/2019-05-06-Joshua-Pearce.html",
+    "title": "The Wild West of Distributed Recycling - Conference of Prof. Joshua Pearce.",
+    "section": "",
+    "text": "Professor Joshua Pearce will give an astonishing conference entitled:\n“The Wild West of Distributed Recycling”\nOnly about 9% of plastic waste generated in the U.S. is recycled; and that was before China stopped accepting mixed plastic waste, so in the short term even less plastic will be recycled. The economics of plastic recycling historically have been challenging and there has been little financial incentive to encourage consumers to recycle their plastic waste. Today, however, new open source technologies enable consumers to become prosumers who can convert plastic waste into high value products. What does waste management look like when prosumers recycle their own waste in their own homes? This presentation will discuss this potential in the fully distributed context based on technical research at Michigan Tech and compare it to semi-distributed recycling in the fab lab context being pioneered at the University of Lorraine.\nDate: Wednesday May 15 at 17h30 at Lorraine Fab Living lab , 49 Bd d’Austrasie à Nancy.\nProf. Joshua Pearce Professor in the Materials Science & Engineering and the Electrical & Computer Engineering at Michigan Tech. He currently runs the Michigan Tech in Open Sustainability Technology (MOST) group.\nHe is also an affiliated faculty member in the graduate program in Environmental and Energy Policy at MTU and an adjunct professor in Mech and at Queens University, Canada where I run the Queens Applied Sustainability Group.\nHis research focuses on open and applied sustainability, which is the application of science and innovation to ensure a better quality of life for all, now and into the future, in a just and equitable manner, whilst living within the limits of supporting ecosystems. Specifically He is interested in exploring the way solar energy can be used to provide clean sustainable electricity through photovoltaic devices and how the sharing of open source hardware and software can create sustainable and equitable means of production (e.g. create open source appropriate technology and other free and open source hardware)."
+  },
+  {
+    "objectID": "posts/2019/2019-06-11-nitim.html",
+    "href": "posts/2019/2019-06-11-nitim.html",
+    "title": "NITIM Summer School 2019 in Nice 13th-15th June",
+    "section": "",
+    "text": "The NITIM Graduate Summer School is an international PhD school that focuses on topics in the areas of entrepreneurship, innovation and technology management as well as information and communication technologies. This Summer School is organized once a year in cooperation with the ICE/IEEE ITMC Conference and thus takes place at changing locations – e.g. 2016 in Trondheim (Norway), 2017 in Madeira (Portugal) and 2018 in Konstanz (Germany). In 2019, it will be held in Nice, France.\n\n\n\nNitim\n\n\nThe NITIM Summer School is a non-profit organization that is supported by a large faculty consisting of professors with various backgrounds from all over the world. The NITIM Schools facilitate the development of doctoral research in the interdisciplinary field of Networks, Information, Technology and Innovation Management, bringing together PhD candidates and faculty members in a focused, in-depth, and constructive discussion of the candidates’ research work. On this occasion, the NITIM Summer School 2019 is hosted by the ERPI Laboratory with the support of the scientific pole EMPP of the Université de Lorraine.\nEach year an academic agenda is designed aimed at providing a meaningful experience for participants. For this reason, it is an honor to welcome this year’s lecturers.\n{: .align-left}\nLead Lecturer Prof. Laure Morel, full professor and Director of the Ecole Nationale en Génie des Systèmes Industriels (The Industrial Engineering School of the University of Lorraine – Nancy, France), and researcher and former Director of ERPI Laboratory (Research Team on Innovative Processes).\nLaure Morel is also Honorary Professor at Universidad Nacional de Colombia. Likewise, she is co-creator of Lorraine Smart Cities Living Lab (2008) and co-founder of Lorraine Fab Living Lab® (2014). Prof. Morel has led research on innovation engineering and the development of decision support tools for more than 20 years. She is one of the team members who invented the “PII – Potential Innovation Index” method used by Innovation Way. Also, she is a member of the French delegation to the “ISO TC 279- Innovation Management Systems” Committee and is particularly active in the “Assessment” group; manager at Research Network on Innovation; and Vice-President of IAMOT. Additionally, she co-creates the start-up: www.innovation-way.com.\n{: .align-left}\nGuest Lecturer Laurent Dupont, Eng. PhD. co-founder and scientific manager of the Lorraine Fab Living Lab®, ERPI Laboratory, Université de Lorraine.\nLaurent is senior researcher at ERPI, lecturer at ENSGSI and visiting lecturer at TELECOM Nancy. He is the co-founder (2014) and scientific manager of the Lorraine Fab Living Lab®, the ERPI research platform for prospective assessment of innovative usages and innovation acceptability. He is also the co-creator (2008) and scientific coordinator of Lorraine Smart Cities Living Lab (ENoLL member since 2010), an interdisciplinary project involving several laboratories and other public and private partners. He designs, implements and evaluates new processes, based on collaborative innovation involving users, companies and territories, generating smart and sustainable Cities.\nL. Dupont is member of ICE / IEEE ITMC International Organizing Committee, International Conference on Technology, Engineering & Innovation. He is member of the scientific council of VRIC (Laval Virtual). For its university, L. Dupont leads the H2020 INEDIT Project (2019-2022) and he is member of the H2020 Smagrinet project (2019-2021).\n{: .align-left}\nGuest Lecturer\nStefan Wolfgang Pickl was born in Darmstadt, Germany on 29th September, 1967. He studied mathematics, electrical engineering and philosophy. He is member of NITIM since 2011; he is officially connected with the former institute of Bernhard Katzy at LIACS in Leiden since 2008. In 2000 Mr. Pickl received the PhD-Thesis award by the German Society for Operations Research.\nHe is board member of the German Committee for Disaster Reduction (DKKV). There, he is mainly engaged in the development of resilient systems and integrated assessment models. He founded the competence center COMTESSA with a focus on Safety & Security. From 2013-2018 he was international coordinator of the innovative security projects RIKOV and REHSTRAIN (Resilience of the Franco-German High Speed Train Network). Prof. Dr. Stefan Pickl is Honorary Chair at The University of Nottingham Malaysia Campus\nTwo and a half days of hard work, academic reflection and looking ahead. Below you can take a look at the program of this year’s edition:\n\n\n\nPlanning NITIM\n\n\nFurthermore, the NITIM Schools is all about a community. This PhD consortia is the opportunity to meet a great group of people who is open to share their ideas, knowledge and experiences. Network members include PhD candidates, alumni, faculty and industry partners in over 10 countries around the world, representing over 20 nationalities.\n\n\n\npeople NITIM\n\n\nFinally, we would like to present this year’s organization team:\nLocal Chairs\nBrunelle Marche, Laurent Dupont & Mauricio Camargo (Université de Lorraine, FR)\nProgram Committee - Roland Ortt (TU Delft, NL) - Stefan Klein (Universität Münster, DE) - Guido Baltes (HTWG Konstanz, DE) - Hanna Bahemia (Newcastle University, GB) - David Romero (Tecnológico de Monterrey, MX) - Francesc Miralles (La Salle, Universitat Ramon Llull, ES)\nSchool Chair Ferney Osorio (Université de Lorraine, FR)\nIf you want to know more about the NITIM Community, please feel free to contact us at nitim.contact@gmail.com or visit our website https://www.nitim.org/\n\n\n\nnice NITIM"
+  },
+  {
+    "objectID": "posts/2024/04/index.fr.html",
+    "href": "posts/2024/04/index.fr.html",
+    "title": "Bedtest for Prototyping",
+    "section": "",
+    "text": "Dans le cadre du partenariat entre l’Ecole Nationale Supérieure en Génie des Systèmes et de l’Innovation (ENSGSI) / l’ERPI | Equipe de Recherche sur les Processus Innovatifs et l’entreprise GRTgaz, un banc d’essai a été conçu et fabriqué par Benjamin Ennesser-Serville au Green Fab Lab (une initiative du LF2L) afin de reproduire les conditions réelles de travail des opérateurs. Ce dispositif d’évaluation par l’usage a permis aux étudiants de 2ème année ingénieur de l’ENSGSI de tester leurs différents prototypes dans le cadre du module de Conception et Évaluations Itératives.\nCe projet ainsi que les différents prototypes des étudiants seront présentés lors des soutenances du module qui auront lieu le jeudi 11 avril 2024, à partir de 13h45, dans les locaux de l’ENSGSI.\nLe LF2L remercie L’Octroi-Nancy qui rend possible nos actions, Alaa Hassan, Maître de Conférence à l’ENSGSI, ainsi que Sébastien Bourgeois, Sylvain Poulain, Philippe Mannoni et Joel Wagner de GRT gaz pour cette mission."
+  },
+  {
+    "objectID": "posts/2024/04/index.html",
+    "href": "posts/2024/04/index.html",
+    "title": "Banc d’essai",
+    "section": "",
+    "text": "Dans le cadre du partenariat entre l’Ecole Nationale Supérieure en Génie des Systèmes et de l’Innovation (ENSGSI) / l’ERPI | Equipe de Recherche sur les Processus Innovatifs et l’entreprise GRTgaz, un banc d’essai a été conçu et fabriqué par Benjamin Ennesser-Serville au Green Fab Lab (une initiative du LF2L) afin de reproduire les conditions réelles de travail des opérateurs. Ce dispositif d’évaluation par l’usage a permis aux étudiants de 2ème année ingénieur de l’ENSGSI de tester leurs différents prototypes dans le cadre du module de Conception et Évaluations Itératives.\nCe projet ainsi que les différents prototypes des étudiants seront présentés lors des soutenances du module qui auront lieu le jeudi 11 avril 2024, à partir de 13h45, dans les locaux de l’ENSGSI.\nLe LF2L remercie L’Octroi-Nancy qui rend possible nos actions, Alaa Hassan, Maître de Conférence à l’ENSGSI, ainsi que Sébastien Bourgeois, Sylvain Poulain, Philippe Mannoni et Joel Wagner de GRT gaz pour cette mission."
+  },
+  {
+    "objectID": "posts/2019/2019-07-03-francebluelorraine.html",
+    "href": "posts/2019/2019-07-03-francebluelorraine.html",
+    "title": "Podcast about the LF2L in France Blue Lorraine",
+    "section": "",
+    "text": "Click on the image"
+  },
+  {
+    "objectID": "posts/2019/workshop-gid-route-gestion-innovante-des-dépendances-routières.html",
+    "href": "posts/2019/workshop-gid-route-gestion-innovante-des-dépendances-routières.html",
+    "title": "Evaluating air quality by combining stationary, smart mobile pollution monitoring and data-driven modelling",
+    "section": "",
+    "text": "Evaluating air quality by combining stationary, smart mobile pollution monitoring and data-driven modelling\nJournal of Cleaner Production - Volume 221, 1 June 2019, Pages 398-418\nPlease find a Link providing 50 days’ free access to our last paper with our colleagues from Data61/CSIRO Australia and UL-ERPI Laboratory, France\nhttps://authors.elsevier.com/c/1YhI73QCo9UqCv\n\n\nHighlights\n• We proposed an air quality evaluation framework using fixed and mobile sensing units.\n• It also integrates machine learning methods to predict the air quality from mobile data.\n• Three experimenting protocols for air pollution monitoring have been implemented.\n• NO2 pollution at human breathing levels was 3-5 times higher than those of static units.\n• Decision trees and neural networks can accurately predict mobile air quality.\n• Humidity and noise are the most important factors affecting the NO2 prediction."
+  },
+  {
+    "objectID": "posts/2021/2021-01-21-temoignage-presidente-inrae.html",
+    "href": "posts/2021/2021-01-21-temoignage-presidente-inrae.html",
+    "title": "Meriem Fournier, President of the INRAE Grand Est Nancy Center",
+    "section": "",
+    "text": "This new letter shows that research in Lorraine is very active, despite the pandemic which is wearing us out.\nFor our specialized and finalized research establishment like INRAE, the National Research Institute for Agriculture, Food and the Environment, the Lorraine site, with its “human size” and its immense talents is an exceptional place to experiment. new ways of carrying out research, for a strong social and economic impact that is not disconnected from academic excellence and training.\nI thus have a mandate from our CEO to set up a new site agreement in 2021 with the University of Lorraine and AgroParisTech around the themes of “risks and adaptations of ecosystems and bioeconomic systems” and “Open innovation and participatory sciences”.\nTwo points of view which encourage us to think beyond our historical identity (well known around the forest, but INRAE ​​in Lorraine is not only that) and which also recognize how far we have come. We are thus proud to have all together, among research partners, supported the emergence of the * Tous Chercheurs * platform which offers a model and tools for the development of participatory sciences, a platform whose organizational and economic model must be consolidated. , and which is now connected to the world of innovation with the ** LF2L platform of the ERPI ** and the start-up Sol & Co from the LSE and the LIEC.\nBut also proud of the recognition of all kinds, especially the legion of honor of Francis Martin, director of LABEX ARBRE, “highly cited researcher” who promotes his teams and the site, formidable popularizer of the biology of fungi that live under trees.\nHappy New Year to all of us, let us remain more courageous, generous and enthusiastic than ever.\nMeriem Fournier, President of the INRAE Grand Est Nancy Center (© JF Hamard)\n\n\n\nMeriem Fournier, President of the INRAE Grand Est Nancy Center"
+  },
+  {
+    "objectID": "posts/2021/2021-01-27-gigabot.html",
+    "href": "posts/2021/2021-01-27-gigabot.html",
+    "title": "Plastic recycling is (and will be) a major issue for cleaning up after these challenging times of the covid-19 response",
+    "section": "",
+    "text": "Since the beginning, the INEDIT project is aware of the importance of the collective intelligence as a mean to develop technical paths that could have a positive impact in the future industrial ecosystem.\nThe Université de Lorraine with our Lorraine Fab Living Lab® (LF2L) platform received on November 2020 the first Gigabot X in Europe, an open-hardware large-scale 3D printer that is capable to use plastic waste in pellet form to create new useful products and parts.\nThis machine is one of the technological levers to develop an INEDIT Open Manufacturing Demonstrator Facility (OMDF) for the furniture industry by recycling local plastic waste and involving local stakeholders in a collaborative process (WP4 & WP6).\nOur LF2L team tests and adapts the machine while integrating it into the local ecosystem to promote the circular economy and the “Do It Together” approach.\n INEDIT and LF2L teams around the Gigabot X\n\n{:height=“50%” width=“50%”}\nA large-scale acquisition made possible thanks to ERDF (European Regional Development Fund)"
+  },
+  {
+    "objectID": "posts/2020/2020-04-23-ConVRgence.html",
+    "href": "posts/2020/2020-04-23-ConVRgence.html",
+    "title": "VRIC ConVRgence 2020: 22nd Virtual Reality International Conference - Laval Virtual",
+    "section": "",
+    "text": "Despite the quarantine, ERPI and 2LPN (Université de Lorraine) have virtually joined Laval virtual - ConVRgence 2020 (VRIC) Virtual Reality International Conference with 3 papers (including 2 papers for interdisciplinary InnCognitif project supported by the EMPP & CLCS scientific poles and by ANR LabCom N-Hum-Inno by ERPI-TEA) ! Thanks to my co-authors Mariela Martínez, Giovanny Arbelaez Garces, Anaëlle Hily, Christel JACOB, Mauricio Camargo, Jérôme Dinet and to the organizers & scientific comity Simon Richir, Sylvain Fleury, Olivier Christmann…"
+  },
+  {
+    "objectID": "posts/2020/2020-11-20-Rapport-Apur.html",
+    "href": "posts/2020/2020-11-20-Rapport-Apur.html",
+    "title": "LF2L in the Apur report on Innovative Places in University Sites",
+    "section": "",
+    "text": "The Lorraine Fab Living Lab analyzed by the Apur in its report on Innovative Places in University Sites\n\n\n\nArticle\n\n\nFind the full report here {:height=“15%” width=“15%”}"
+  },
+  {
+    "objectID": "posts/2020/2020-04-28-Covid-19.html",
+    "href": "posts/2020/2020-04-28-Covid-19.html",
+    "title": "VRIC ConVRgence 2020: 22nd Virtual Reality International Conference - Laval Virtual",
+    "section": "",
+    "text": "Despite the quarantine, ERPI and 2LPN (Université de Lorraine) have virtually joined Laval virtual - ConVRgence 2020 (VRIC) Virtual Reality International Conference with 3 papers (including 2 papers for interdisciplinary InnCognitif project supported by the EMPP & CLCS scientific poles and by ANR LabCom N-Hum-Inno by ERPI-TEA) ! Thanks to the authors, Mariela Martínez, Giovanny Arbelaez Garces, Anaëlle Hily, Christel JACOB, Mauricio Camargo, Jérôme Dinet, Laurent Dupont and to the organizers & scientific comity Simon Richir, Sylvain Fleury, Olivier Christmann…"
+  },
+  {
+    "objectID": "posts/2018/2018-04-11-LAC.html",
+    "href": "posts/2018/2018-04-11-LAC.html",
+    "title": "Bon moment numérique avec LAC du 15 au 19 avril",
+    "section": "",
+    "text": "Installations au LF2L du 15 au 19 avril : experiences immersives par LF2L et instruments DIY par BrutPop le programme complet - L’atelier DrawDio Concert Quadriphonia VR par Human games, le 19 avril 20h et 22h Acheter vos places."
+  },
+  {
+    "objectID": "posts/2018/2018-04-11-LAC.html#bon-moment-numérique-avec-lac-du-15-au-19-avril",
+    "href": "posts/2018/2018-04-11-LAC.html#bon-moment-numérique-avec-lac-du-15-au-19-avril",
+    "title": "Bon moment numérique avec LAC du 15 au 19 avril",
+    "section": "",
+    "text": "Installations au LF2L du 15 au 19 avril : experiences immersives par LF2L et instruments DIY par BrutPop le programme complet - L’atelier DrawDio Concert Quadriphonia VR par Human games, le 19 avril 20h et 22h Acheter vos places."
+  },
+  {
+    "objectID": "posts/2018/2018-06-11-LAM.html",
+    "href": "posts/2018/2018-06-11-LAM.html",
+    "title": "The LF2L and le Laboratoire d’archéologie des métaux",
+    "section": "",
+    "text": "The Lorraine Fab Living Lab® (laboratoire ERPI and ENSGSI) is a partner of the Metal Archaeology Laboratory of the musée de l’Histoire du fer (LAM) as part of the project to renovate the monument to the dead at Létricourt.\nThis statue suffered damage from the Second World War and was “violently” dismantled in 2014. The rifle of the soldier’s statue was particularly damaged and all that remained was the tip and his bayonet.\nWith the help of a team of EXIA.CESI students in internship, the LF2L team made a 3D digital copy of a period rifle to reconstruct this part. Thanks to the loan of a Lebel 1886 rifle by the  Musée de la Guerre de 1870 et de l’Annexion from Gravelotte and the use of the Artec EVA Scanner at the Lorraine Fab Living Lab®.\nAfter scanning and image processing, the rifle was manufactured by 3D printing (FDM technology at LF2L). The printed object was then painted to give a similar appearance to the original statue.\nThis project has thus made it possible to create a common LF2L / LAM expertise in the digitisation and 3D printing of large scale historical metal parts and the training of two engineering students.\nMore info (in french): http://factuel.univ-lorraine.fr/node/9664\n{% include gallery caption=“Presentation of the project” %}"
+  },
+  {
+    "objectID": "posts/2018/2018-05-28-Foire.html",
+    "href": "posts/2018/2018-05-28-Foire.html",
+    "title": "LF2L et LSCLL à la Foire Int. Expo de Nancy du 25 mai au 4 juin",
+    "section": "",
+    "text": "Pour la deuxième année consécutive, le Lorraine Smart Cities Living Lab est invité de la Foire Expo Internationale de Nancy (Stand A-13, Hall B) avec un espace de 80 m2 sur lequel l’Université de Lorraine propose au grand public comment contribuer aux innovations de demain! Lien vers la Foire"
+  },
+  {
+    "objectID": "posts/2018/2018-05-28-Foire.html#lf2l-et-lscll-à-la-foire-int.-expo-de-nancy-du-25-mai-au-4-juin",
+    "href": "posts/2018/2018-05-28-Foire.html#lf2l-et-lscll-à-la-foire-int.-expo-de-nancy-du-25-mai-au-4-juin",
+    "title": "LF2L et LSCLL à la Foire Int. Expo de Nancy du 25 mai au 4 juin",
+    "section": "",
+    "text": "Pour la deuxième année consécutive, le Lorraine Smart Cities Living Lab est invité de la Foire Expo Internationale de Nancy (Stand A-13, Hall B) avec un espace de 80 m2 sur lequel l’Université de Lorraine propose au grand public comment contribuer aux innovations de demain! Lien vers la Foire"
+  },
+  {
+    "objectID": "posts/2024/04/25/index.html",
+    "href": "posts/2024/04/25/index.html",
+    "title": "[3 questions] au LF2L, membre de la fédération des espaces d’innovation",
+    "section": "",
+    "text": "Découvrez le Lorraine Fab Living Lab® (LF2L), membre de la fédération des espaces d’innovation dans le cadre du programme Sirius. Un espace, porté par l’ENSGSI et le laboratoire ERPI, qui se positionne comme une plate-forme d’acceptabilité des innovations et d’évaluation prospective des usages.\nFactuel a eu l’opportunité d’échanger avec Laure Morel, directrice de l’ENSGSI, Mauricio Camargo, directeur de l’ERPI et Laurent Dupont, responsable scientifique du LF2L pour en savoir plus sur cet espace d’innovation."
+  },
+  {
+    "objectID": "posts/2024/04/25/index.html#pouvez-vous-nous-décliner-lidentité-du-lf2l",
+    "href": "posts/2024/04/25/index.html#pouvez-vous-nous-décliner-lidentité-du-lf2l",
+    "title": "[3 questions] au LF2L, membre de la fédération des espaces d’innovation",
+    "section": "Pouvez-vous nous décliner l’identité du LF2L ?",
+    "text": "Pouvez-vous nous décliner l’identité du LF2L ?\n\n\n\n\n\n\n\n\n\nEn célébrant son 10e anniversaire cette année, le LF2L confirme sa reconnaissance comme acteur majeur dans l’écosystème innovant du Grand Est. Soutenu dès son ouverture par l’Université de Lorraine, la région, la métropole du Grand Nancy, des groupes industriels, des collectivités, des réseaux de PME-PMI, des associations, le LF2L est un lieu qui permet de mobiliser tous les acteurs à travers un continuum d’innovation 2D-3D-4D au service d’un développement soutenable.\n\n\n\nImplanté au coeur de la ville de Nancy, cet espace de co-création, de matérialisation et d’expérimentation par les usages collabore avec de nombreux réseaux nationaux, européens ou internationaux et contribue à diffuser notre savoir-faire local.\n\nNom : Lorraine Fab Living Lab ® - LF2L\nDate de création : 2014\n10 membres (ce chiffre concerne uniquement le personnels dédiés)\nTutelle(s) : Université de Lorraine - ENSGSI - ERPI\nSite : Nancy\nType de publics : Citoyens, entreprises, collectivités, chercheurs et étudiants"
+  },
+  {
+    "objectID": "posts/2024/04/09/index.html",
+    "href": "posts/2024/04/09/index.html",
+    "title": "Banc d’essai",
+    "section": "",
+    "text": "Dans le cadre du partenariat entre l’Ecole Nationale Supérieure en Génie des Systèmes et de l’Innovation (ENSGSI) / l’ERPI | Equipe de Recherche sur les Processus Innovatifs et l’entreprise GRTgaz, un banc d’essai a été conçu et fabriqué par Benjamin Ennesser-Serville au Green Fab Lab (une initiative du LF2L) afin de reproduire les conditions réelles de travail des opérateurs. Ce dispositif d’évaluation par l’usage a permis aux étudiants de 2ème année ingénieur de l’ENSGSI de tester leurs différents prototypes dans le cadre du module de Conception et Évaluations Itératives.\nCe projet ainsi que les différents prototypes des étudiants seront présentés lors des soutenances du module qui auront lieu le jeudi 11 avril 2024, à partir de 13h45, dans les locaux de l’ENSGSI.\nLe LF2L remercie L’Octroi-Nancy qui rend possible nos actions, Alaa Hassan, Maître de Conférence à l’ENSGSI, ainsi que Sébastien Bourgeois, Sylvain Poulain, Philippe Mannoni et Joel Wagner de GRT gaz pour cette mission."
+  },
+  {
+    "objectID": "posts/2024/04/09/index.fr.html",
+    "href": "posts/2024/04/09/index.fr.html",
+    "title": "Bedtest for Prototyping",
+    "section": "",
+    "text": "Dans le cadre du partenariat entre l’Ecole Nationale Supérieure en Génie des Systèmes et de l’Innovation (ENSGSI) / l’ERPI | Equipe de Recherche sur les Processus Innovatifs et l’entreprise GRTgaz, un banc d’essai a été conçu et fabriqué par Benjamin Ennesser-Serville au Green Fab Lab (une initiative du LF2L) afin de reproduire les conditions réelles de travail des opérateurs. Ce dispositif d’évaluation par l’usage a permis aux étudiants de 2ème année ingénieur de l’ENSGSI de tester leurs différents prototypes dans le cadre du module de Conception et Évaluations Itératives.\nCe projet ainsi que les différents prototypes des étudiants seront présentés lors des soutenances du module qui auront lieu le jeudi 11 avril 2024, à partir de 13h45, dans les locaux de l’ENSGSI.\nLe LF2L remercie L’Octroi-Nancy qui rend possible nos actions, Alaa Hassan, Maître de Conférence à l’ENSGSI, ainsi que Sébastien Bourgeois, Sylvain Poulain, Philippe Mannoni et Joel Wagner de GRT gaz pour cette mission."
+  },
+  {
+    "objectID": "posts/2024/04/25/index.en.html",
+    "href": "posts/2024/04/25/index.en.html",
+    "title": "Bedtest for Prototyping",
+    "section": "",
+    "text": "Dans le cadre du partenariat entre l’Ecole Nationale Supérieure en Génie des Systèmes et de l’Innovation (ENSGSI) / l’ERPI | Equipe de Recherche sur les Processus Innovatifs et l’entreprise GRTgaz, un banc d’essai a été conçu et fabriqué par Benjamin Ennesser-Serville au Green Fab Lab (une initiative du LF2L) afin de reproduire les conditions réelles de travail des opérateurs. Ce dispositif d’évaluation par l’usage a permis aux étudiants de 2ème année ingénieur de l’ENSGSI de tester leurs différents prototypes dans le cadre du module de Conception et Évaluations Itératives.\nCe projet ainsi que les différents prototypes des étudiants seront présentés lors des soutenances du module qui auront lieu le jeudi 11 avril 2024, à partir de 13h45, dans les locaux de l’ENSGSI.\nLe LF2L remercie L’Octroi-Nancy qui rend possible nos actions, Alaa Hassan, Maître de Conférence à l’ENSGSI, ainsi que Sébastien Bourgeois, Sylvain Poulain, Philippe Mannoni et Joel Wagner de GRT gaz pour cette mission."
+  },
+  {
+    "objectID": "posts/2024/04/25/index.html#quelles-sont-les-activités-principales-de-votre-espace-dinnovation",
+    "href": "posts/2024/04/25/index.html#quelles-sont-les-activités-principales-de-votre-espace-dinnovation",
+    "title": "[3 questions] au LF2L, membre de la fédération des espaces d’innovation",
+    "section": "Quelles sont les activités principales de votre espace d’innovation ?",
+    "text": "Quelles sont les activités principales de votre espace d’innovation ?\nAu sein du Lorraine Fab Living Lab, diverses activités stimulent l’innovation et la créativité. La création et l’utilisation de « démonstrateurs » de nouveaux produits, procédés, services, et organisations y sont encouragés, mobilisant ainsi entreprises, acteurs des territoires, citoyens et universitaires autour de problématiques communes. Il offre un espace ouvert et fonctionnel de prototypage, à la croisée des concepts d’innovation ouverte, de créativité collective, de Living Lab et de FabLab. Les expérimentations menées reposent sur des approches collaboratives, impliquant les usagers dans la conception et le développement de solutions concrètes pour les territoires du futur."
+  },
+  {
+    "objectID": "posts/2024/04/25/index.html#avez-vous-un-projet-marquant-à-partager",
+    "href": "posts/2024/04/25/index.html#avez-vous-un-projet-marquant-à-partager",
+    "title": "[3 questions] au LF2L, membre de la fédération des espaces d’innovation",
+    "section": "Avez-vous un projet marquant à partager ?",
+    "text": "Avez-vous un projet marquant à partager ?\nLa création d’une filière de recyclage local du plastique, basée sur la fabrication additive ou l’injection, ouvre des nouvelles opportunités pour l’économie circulaire. Ce projet, le Green FabLab, expérimente au sein du tiers-lieu L’Octroi-Nancy les principes de l’économie circulaire et collaborative, en intégrant les déchets plastiques comme une nouvelle matière première.\nCe démonstrateur illustre la capacité du LF2L à développer des réponses innovantes pour faire face aux enjeux sociétaux et environnementaux d’aujourd’hui et de demain."
   }
 ]

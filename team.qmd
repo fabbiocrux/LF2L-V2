@@ -8,7 +8,7 @@ format:
      - partials/title-block.html  
 
 title-block-banner: rgba(255, 255, 255, 0.45)
-lightbox: true
+lightbox: auto
 ---
 
 
@@ -69,13 +69,14 @@ Référent Technique
 
 # Nos locaux
 
+
 ::: {layout="[[30,70], [30,70]] "}
 ![](images/logos/MESR.svg){.no-lightbox}
 
 Le LF2L, un des lieux [inspirants de l'Enseignement supérieur référencé par le MESR](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/). 
 En 2023, le Ministère de l’Enseignement Supérieur et de la Recherche a mis en place un plate-forme pour référencer les lieux inspirants. Le LF2L en fait partie ! Il a même le statut de lieu d’innovation 21 sur 277 en décembre 2023. Retrouvez la description des espaces et les activitées pédagogique, recherche et développement associées sur le site du ministère
 
-![](images/logos/pil.svg)
+![](images/logos/pil.svg){.no-lightbox}
 
 Également, le réseau [Plug In Labs Lorraine](https://pluginlabs.univ-lorraine.fr/fiche/lorraine-fab-living-lab/) offre un accès centralisé à toutes les compétences et équipements de la recherche publique en Lorraine. Retrouvez tous les équipements et prestations proposés par l’ERPI avec sa plate-forme LF2L sur le site Plug In Labs Lorraine
 
@@ -104,6 +105,7 @@ En 2023, le Ministère de l’Enseignement Supérieur et de la Recherche a mis e
 
 
 ## J’irai innover chez vous... avec le 1er Fab Lab Mobile de France !
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/101465988@N05/albums/72157644260382289" title="Nomad'Lab"><img src="https://farm8.staticflickr.com/7502/15795968456_e92f897b74_b.jpg" width="100%" height="auto" alt="Nomad'Lab"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Multiplier les voies d’accès à l’innovation est le pari gagné par l’ENSGSI et l’ERPI grâce au Fab Lab Mobile !.

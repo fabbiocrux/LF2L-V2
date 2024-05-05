@@ -12,7 +12,7 @@ about:
 
 listing:
   id: recents
-  contents: "posts/*/*.qmd"
+  contents: "posts/*/*/*/*.qmd"
   sort: "date desc"
   type: grid
   categories: false
@@ -49,7 +49,7 @@ include-in-header:
 
 Le **Lorraine Fab Living Lab® (LF2L®)** est une plate-forme d'acceptabilité des innovations et d'évaluation prospective des usages
 porté par l'[Ecole ENSGSI](https://ensgsi.univ-lorraine.fr/) et le [Laboratoire ERPI](https://erpi.univ-lorraine.fr/) de l'[Université de Lorraine](https://www.univ-lorraine.fr/). 
-Il soutient la création et l'obtention de résultats à travers un processus établi basé sur le paradigme de l'usage réunissant dans un même espace des outils avancés complémentaires.  [Pour en savoir plus](/about.html){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip" }
+Il soutient la création et l'obtention de résultats à travers un processus établi basé sur le paradigme de l'usage réunissant dans un même espace des outils avancés complémentaires.  [Pour en savoir plus](/about.html){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip" }
 
 
 ::: {layout-nrow=1}
@@ -66,8 +66,8 @@ Il soutient la création et l'obtention de résultats à travers un processus é
 ::: {#recents}
 :::
 
-:::{style="text-align='right'"}
-[Pour en savoir plus](/about.html){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip" }
+:::{style="display: flex; justify-content: right; height: 100px;"}
+[Tout l'actualité](/blog.html){.btn .btn-primary .btn-lg role="button" data-toggle="tooltip" title="Actualité" }
 :::
 
 
