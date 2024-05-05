@@ -85,9 +85,9 @@ En 2023, le Ministère de l’Enseignement Supérieur et de la Recherche a mis e
 
 ::: {layout="[[50,50],[30,30,30, 30, 30]]"}
 
-![Espace Materialisation](images/5-place/LF2L/header.jpg){group="my-gallery"}
+![Espace Materialisation](images/5-place/Materialisation.jpeg){group="my-gallery"}
 
-![Espace Collaboratif](images/Image-to-find.jpg){group="my-gallery"}
+![Espace Collaboratif](images/5-place/Collaboratif.jpeg){group="my-gallery"}
 
 ![Créativité](images/Image-to-find.jpg){group="my-gallery" description="Lorsqu’une problématique est définie, un travail d’animation de groupe permettra de solliciter la créativité d’une équipe autour de brainstormings, road-mappings, afin de couvrir le champ des possibles en termes de réponses à apporter. Une plate-forme numérique a été développéepour aider à la capitalisation et l’archivage des propositions émises par des participants"}
 
