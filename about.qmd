@@ -1,6 +1,7 @@
 ---
 title: "À propos"
 title-fr: "Concept du LF2L"
+subtitle: "Explorez l'Innovation"
 toc: true
 format:
  html:    
@@ -8,22 +9,23 @@ format:
      - partials/title-block.html  
 lightbox: auto
 title-block-banner: rgba(255, 255, 255, 0.45)
-include-in-header:
-  - text: |
-      <style>
-      .quarto-title-block .quarto-title-banner::before {
-        background-image: url(images/banners/banner01.jpg);
-        background-size: cover;
-        content: "";
-        position: absolute;
-        top: 0px;
-        right: 0px;
-        bottom: 0px;
-        left: 0px;
-        opacity: 0.25;
-        }
+title-block-banner-color: "#592c8e"
+# include-in-header:
+#   - text: |
+#       <style>
+#       .quarto-title-block .quarto-title-banner::before {
+#         background-image: url(images/banners/banner01.jpg);
+#         background-size: cover;
+#         content: "";
+#         position: absolute;
+#         top: 0px;
+#         right: 0px;
+#         bottom: 0px;
+#         left: 0px;
+#         opacity: 0.25;
+#         }
 
-      </style>
+#       </style>
 ---
 
 
@@ -68,11 +70,10 @@ Ces expérimentations sont issues du projet Lorraine Smart Cities Living Lab eng
 > Cet espace permet de co-créer, prototyper et tester des produits et services rêvés par des citoyens et des entreprises soucieux de participer ensemble à l’amélioration des territoires créatifs de demain.
 
 
-### Entrez dans la 4ème helix de l’Innovation !
+### Entrez dans la 4ème hélice de l’Innovation !
 
 Le Lorraine Fab Living Lab® permet de créer à la demande et d’obtenir des résultats immédiats grâce à un processus établi, basé notamment sur le paradigme de l’usage. En réunissant en un même espace des outils de pointe complémentaires, le Lorraine Fab Living Lab® facilite le travail de réflexion collaborative et de développement de l’innovation. Ainsi, l’originalité du Lorraine Fab Living Lab® est d’accueillir et d’accompagner différentes communautés de pratiques (citoyens utilisateurs, entrepreneurs, chercheurs, institutionnels, etc.) via un dispositif scientifique et technique capable de multiplier les interfaces pour intégrer la dimension de l’usage selon les phases du projet. Le LF2L® permet ainsi d’accélérer le passage de l’idée ou concept abstrait (2D) à leur matérialisation (3D virtuelle ou prototypée) en les évaluant (4D – scénarios d ’évolution). Les recherches nous ont par ailleurs conduit à développer des dispositifs immersifs pour assurer une connexion régulière aux situations réelles d’usage.
 
->Initier, animer une dynamique de réflexion collective sur notre environnement de vie et apporter des réponses partagées est l’enjeu prioritaire auquel veulent répondre les acteurs du Lorraine Fab Living Lab®.
 
 
 ### Ils nous ont fait confiance :
