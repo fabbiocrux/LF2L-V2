@@ -51,7 +51,7 @@ Référent Technique
 :::
 
 
-## Équipe de Stagiares
+## Équipe de Stagiares 2024 - 2024
 
 ::: {layout="[30,30,30]"}
 
@@ -69,12 +69,17 @@ Référent Technique
 
 # Nos locaux
 
-Le LF2L, un des lieux d’innovation référencé par le MESR. 
+::: {layout="[[30,70], [30,70]] "}
+![](images/logos/MESR.svg){.no-lightbox}
+
+Le LF2L, un des lieux [inspirants de l'Enseignement supérieur référencé par le MESR](https://inspiration.dgesip.fr/Espaces/Lieu/WuMr6/). 
 En 2023, le Ministère de l’Enseignement Supérieur et de la Recherche a mis en place un plate-forme pour référencer les lieux inspirants. Le LF2L en fait partie ! Il a même le statut de lieu d’innovation 21 sur 277 en décembre 2023. Retrouvez la description des espaces et les activitées pédagogique, recherche et développement associées sur le site du ministère
 
+![](images/logos/pil.svg)
 
+Également, le réseau [Plug In Labs Lorraine](https://pluginlabs.univ-lorraine.fr/fiche/lorraine-fab-living-lab/) offre un accès centralisé à toutes les compétences et équipements de la recherche publique en Lorraine. Retrouvez tous les équipements et prestations proposés par l’ERPI avec sa plate-forme LF2L sur le site Plug In Labs Lorraine
 
-
+:::
 
 
 ::: {layout="[[50,50],[30,30,30, 30, 30]]"}
@@ -83,7 +88,7 @@ En 2023, le Ministère de l’Enseignement Supérieur et de la Recherche a mis e
 
 ![Espace Collaboratif](images/Image-to-find.jpg){group="my-gallery"}
 
-![Créativité](images/Image-to-find.jpg){group="my-gallery" description="Lorsqu’une problématique est définie, un travail d’animation de groupe permettra de solliciter la créativité d’une équipe autour de brainstormings, road-mappings, afin de couvrir le champ des possibles en termes de réponses à apporter. Une plate-forme numérique a été développéepour aider à la capitalisation et l’archivage des propositions émises par des participants. <br>*Credit Photo*:Laurent Dupont"}
+![Créativité](images/Image-to-find.jpg){group="my-gallery" description="Lorsqu’une problématique est définie, un travail d’animation de groupe permettra de solliciter la créativité d’une équipe autour de brainstormings, road-mappings, afin de couvrir le champ des possibles en termes de réponses à apporter. Une plate-forme numérique a été développéepour aider à la capitalisation et l’archivage des propositions émises par des participants"}
 
 ![Open Innovation](images/Image-to-find.jpg){group="my-gallery"}
 
