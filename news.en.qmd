@@ -1,7 +1,0 @@
----
-title: "News"
-listing:
-  contents: "posts/*/*.qmd"
-  include:
-    lang: en
----
