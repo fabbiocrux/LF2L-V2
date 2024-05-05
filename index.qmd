@@ -43,7 +43,7 @@ include-in-header:
 ---
 
 
-## Entrez dans la 4ème Helix de l’Innovation {style="text-align:center"}
+## Entrez dans la 4ème hélice de l’Innovation {style="text-align:center"}
 
 :::{#hero-LF2L}
 
