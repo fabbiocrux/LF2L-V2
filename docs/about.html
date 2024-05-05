@@ -326,7 +326,7 @@ window.Quarto = {
 <div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Image-to-find.jpg" class="lightbox" data-gallery="my-gallery" data-glightbox="description: .lightbox-desc-6" data-description="Lorsqu’une
+<p><a href="images/Image-to-find.jpg" class="lightbox" data-description="Lorsqu’une
 
 problématique
 
@@ -426,7 +426,7 @@ par
 
 des
 
-participants" title="Histoire 0"><img src="images/Image-to-find.jpg" class="img-fluid figure-img" alt="Histoire 0"></a></p>
+participants" data-gallery="my-gallery" data-glightbox="description: .lightbox-desc-6" title="Histoire 0"><img src="images/Image-to-find.jpg" class="img-fluid figure-img" alt="Histoire 0"></a></p>
 <figcaption>Histoire 0</figcaption>
 </figure>
 </div>
@@ -995,7 +995,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"selector":".lightbox","descPosition":"bottom","openEffect":"zoom","loop":false,"closeEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","loop":false,"openEffect":"zoom","closeEffect":"zoom","descPosition":"bottom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
