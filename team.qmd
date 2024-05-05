@@ -120,3 +120,15 @@ L’enjeu prioritaire auquel veulent répondre les acteurs et partenaires du Lor
 **Plus de details:** <br>
 * Morel, L., Dupont, L., Lhoste, P., [When innovation supported by fab labs becomes a tool for territorial economic development: example of the first mobile fab lab in France](https://hal.archives-ouvertes.fr/hal-01333488). Conference Proceedings of the 24th International Conference on Management of Technology. Cape Town, South Africa, June 8-10, 2015, pp. 772-786.
 :::
+
+
+# Contactez-nous 
+
+<iframe height="557"
+  allowTransparency="true"
+  frameborder="0"
+  scrolling="no"
+  style="width:100%;border:none"
+  src="https://lf2l.wufoo.com/embed/mspzvpa1bdexyq/">
+<a href="https://lf2l.wufoo.com/forms/mspzvpa1bdexyq/"> Fill out my Wufoo form! </a>
+</iframe>

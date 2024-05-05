@@ -45,10 +45,10 @@ website:
       - icon: twitter
         href: /
     right: 
-      - text: "**Nous Retrouver** <br> 49 Boulevard d'austrasie, 54000 Nancy, France"
+      - href: documents.qmd        
+      - text: "**Nous Retrouver** <br> 49 Boulevard d'Austrasie,<br> 54000 Nancy, France"
         href: info.qmd 
-      # - icon: instagram
-      #   href: info.qmd        
+
     #   - icon: linkedin
     #     href: /
     #   - icon: twitter

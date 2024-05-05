@@ -2,11 +2,22 @@
 title: "Communautés"
 toc: true
 toc-title: "Nos comunautés"
+
+title-fr: "Communautés du LF2L"
+subtitle: "Les dernières contributions du LF2L à la pédagogie et à la recherche"
+
+format:
+ html:    
+   template-partials: 
+     - partials/title-block.html  
+
+title-block-banner: "#FFFFFF"
+title-block-banner-color: "#592c8e"
+
 ---
 
 
-# Les helix de l'Innovation
-
+# Les Hélices de l'Innovation
 
 
 ::: {layout="[50,50]"}

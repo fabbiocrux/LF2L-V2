@@ -71,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-blog .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -84,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-blog'] = new List('listing-blog', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -226,11 +226,9 @@ window.Quarto = {
 
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<section id="nos-publications" class="level2">
+<h2 class="anchored" data-anchor-id="nos-publications">Nos publications</h2>
+<div id="listing-blog" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
 <div class="quarto-post image-right" data-index="0" data-categories="Factuel" data-listing-date-sort="1713996000000" data-listing-file-modified-sort="1714915358472" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="406">
 <div class="thumbnail">
@@ -302,7 +300,20 @@ LF2L Team
 <div class="listing-no-matching d-none">
 Aucun article correspondant
 </div>
-</div></main> <!-- /main -->
+</div>
+</section>
+<section id="nos-mentions-sur-factuel-de-lul" class="level2">
+<h2 class="anchored" data-anchor-id="nos-mentions-sur-factuel-de-lul">Nos mentions sur Factuel de l’UL</h2>
+<div class="sk-ww-rss-feed" data-embed-id="25407935">
+
+</div>
+<script src="https://widgets.sociablekit.com/rss-feed/widget.js" async="" defer=""></script>
+
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -749,8 +760,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
+    <a class="nav-link" href="./documents.html">
+<p><strong>Documents Géneraux</strong></p>
+</a>
+  </li>  
+    <li class="nav-item">
     <a class="nav-link" href="./info.html">
-<p><strong>Nous Retrouver</strong> <br> 49 Boulevard d’austrasie, 54000 Nancy, France</p>
+<p><strong>Nous Retrouver</strong> <br> 49 Boulevard d’Austrasie,<br> 54000 Nancy, France</p>
 </a>
   </li>  
 </ul>

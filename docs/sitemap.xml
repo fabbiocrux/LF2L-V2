@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://fabbiocrux.github.io/LF2L-V2/blog.html</loc>
-    <lastmod>2024-05-05T13:27:02.423Z</lastmod>
+    <lastmod>2024-05-05T16:14:46.542Z</lastmod>
   </url>
   <url>
     <loc>https://fabbiocrux.github.io/LF2L-V2/about.html</loc>
@@ -74,7 +74,7 @@
   </url>
   <url>
     <loc>https://fabbiocrux.github.io/LF2L-V2/community.html</loc>
-    <lastmod>2024-05-04T17:09:06.400Z</lastmod>
+    <lastmod>2024-05-05T14:08:15.826Z</lastmod>
   </url>
   <url>
     <loc>https://fabbiocrux.github.io/LF2L-V2/posts/2021-01-21-temoignage-presidente-inrae.html</loc>
@@ -134,11 +134,11 @@
   </url>
   <url>
     <loc>https://fabbiocrux.github.io/LF2L-V2/team.html</loc>
-    <lastmod>2024-05-05T12:26:35.853Z</lastmod>
+    <lastmod>2024-05-05T14:35:00.587Z</lastmod>
   </url>
   <url>
     <loc>https://fabbiocrux.github.io/LF2L-V2/info.html</loc>
-    <lastmod>2024-05-05T11:11:30.636Z</lastmod>
+    <lastmod>2024-05-05T16:05:54.497Z</lastmod>
   </url>
   <url>
     <loc>https://fabbiocrux.github.io/LF2L-V2/publications.html</loc>
@@ -146,7 +146,7 @@
   </url>
   <url>
     <loc>https://fabbiocrux.github.io/LF2L-V2/project.html</loc>
-    <lastmod>2024-05-04T14:00:10.696Z</lastmod>
+    <lastmod>2024-05-05T13:31:40.426Z</lastmod>
   </url>
   <url>
     <loc>https://fabbiocrux.github.io/LF2L-V2/publications.en.html</loc>
@@ -295,5 +295,9 @@
   <url>
     <loc>https://fabbiocrux.github.io/LF2L-V2/posts/2024/04/25/index.en.html</loc>
     <lastmod>2024-05-05T12:50:08.945Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fabbiocrux.github.io/LF2L-V2/documents.html</loc>
+    <lastmod>2024-05-05T14:33:31.306Z</lastmod>
   </url>
 </urlset>
