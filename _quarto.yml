@@ -16,7 +16,7 @@ website:
   #repo-actions: [edit, issue]
   title: ""
   navbar:
-    logo: images/LF2l-Navigation.svg
+    logo: images/LF2l-Navigation-02.svg
     pinned: false
     background: primary
     foreground: white

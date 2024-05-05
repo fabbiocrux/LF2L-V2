@@ -1,5 +1,5 @@
 ---
-title: "**Documents Géneraux**"
+title: "**Documents**"
 title-fr: "Documents Géneraux du LF2L"
 subtitle: "Retrouvez notre écossytème collaboratif et les chartes auxquelles nous adhérons !"
 toc: true
