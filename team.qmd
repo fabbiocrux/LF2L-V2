@@ -1,4 +1,70 @@
 ---
 title: "Équipe"
+title-fr: "Équipe du LF2L"
+format:
+ html:    
+   template-partials: 
+     - partials/title-block.html  
+
+title-block-banner: rgba(255, 255, 255, 0.45)
+
 ---
+
+
+
+## Équipe de Direction
+
+::: {layout="[30,30,30]"}
+
+:::{}
+[![](images/6-info/equipe/LM2.png){width="80%" fig-align="center"} <br> **Laure Morel**](https://ensgsi.univ-lorraine.fr/enseignant/laure-morel/)
+
+Professeur, Directrice de l’ENSGSI
+:::
+
+:::{}
+[![](images/6-info/equipe/MC2.png){width="80%" fig-align="center"} <br> **Mauricio Camargo**](https://ensgsi.univ-lorraine.fr/enseignant/mauricio-camargo/)
+
+Professeur, Directeur de l’ERPI
+:::
+
+:::{}
+[![](images/6-info/equipe/LD2.png){width="80%" fig-align="center"} <br> **Laurent Dupont**](https://ensgsi.univ-lorraine.fr/enseignant/laurent-dupont/)
+
+Responsable scientifique du LF2L 
+:::
+:::
+
+
+## Équipe technique
+
+::: {layout="[30,30,30]"}
+:::{}
+[![](images/6-info/equipe/Benjamin2.png){width="80%" fig-align="center"} **Benjamin Ennerser-Serville**](https://ensgsi.univ-lorraine.fr/enseignant/laure-morel/)
+
+Référent Technique
+:::
+
+:::{}
+[![](images/6-info/equipe/Home.png){width="80%" fig-align="center"} <br> **Marc Meillasson **](/)
+
+
+:::
+:::
+
+
+## Équipe de Stagiares
+
+::: {layout="[30,30,30]"}
+:::{}
+![](images/6-info/equipe/Woman.png){width="80%" fig-align="center"}<br> **Tamara Dumanyan**
+
+:::
+
+:::{}
+![](images/6-info/equipe/Woman.png){width="80%" fig-align="center"} <br> **Mjellma Luzha**
+
+
+:::
+:::
 

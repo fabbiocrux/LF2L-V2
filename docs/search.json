@@ -254,28 +254,28 @@
   {
     "objectID": "info.html",
     "href": "info.html",
-    "title": "",
+    "title": "Practical info of Lorraine Fab Living Lab",
     "section": "",
     "text": "overlay_image: assets/images/banners/LF2L-5.jpg"
   },
   {
     "objectID": "info.html#access",
     "href": "info.html#access",
-    "title": "",
+    "title": "Practical info of Lorraine Fab Living Lab",
     "section": "Access",
     "text": "Access\n\n\n\n\n\nPlan Acces to LF2L"
   },
   {
     "objectID": "info.html#schedule",
     "href": "info.html#schedule",
-    "title": "",
+    "title": "Practical info of Lorraine Fab Living Lab",
     "section": "Schedule",
     "text": "Schedule\n\nMonday - Friday: 9:00am - 12:00pm and 13:30pm - 17:00pm"
   },
   {
     "objectID": "info.html#contact-information",
     "href": "info.html#contact-information",
-    "title": "",
+    "title": "Practical info of Lorraine Fab Living Lab",
     "section": "Contact information",
     "text": "Contact information\n\n&lt;a href=\"https://lf2l.wufoo.com/forms/mspzvpa1bdexyq/\"&gt; Fill out my Wufoo form! &lt;/a&gt;"
   },
@@ -607,5 +607,54 @@
     "title": "Communautés",
     "section": "",
     "text": "{: .align-left}\nDes questions relatives à l’ingénierie collaborative, la Smart City, les dispositifs immersifs, un projet de R&D, de financement de l’innovation ou de mécénat scientifique et technique contact : Laurent Dupont l.dupont@univ-lorraine.fr"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Équipe du LF2L",
+    "section": "",
+    "text": "Laure Morel\n\n\nProfesseur, Directrice de l’ENSGSI\n\n\n\n\n  Mauricio Camargo\n\n\nProfesseur, Directeur de l’ERPI\n\n\n\n\n  Laurent Dupont\n\n\nResponsable scientifique du LF2L"
+  },
+  {
+    "objectID": "team.html#equipe",
+    "href": "team.html#equipe",
+    "title": "",
+    "section": "",
+    "text": "Laure MOrel\n\n\n  \n \ntest\n \n  \n   \n  \n    \n     twitter\n  \n  \n    \n     Github\n  \n\n\n\n\nTest"
+  },
+  {
+    "objectID": "team.html#equipe-de-direction",
+    "href": "team.html#equipe-de-direction",
+    "title": "Équipe du LF2L",
+    "section": "",
+    "text": "Laure Morel\nProfesseur, Directrice de l’ENSGSI\n\n\n\n\n\n\n\nMauricio Camargo\nProfesseur, Directeur de l’ERPI\n\n\n\n\n\n\n\nLaurent Dupont"
+  },
+  {
+    "objectID": "team.html#equipe-technique",
+    "href": "team.html#equipe-technique",
+    "title": "Équipe du LF2L",
+    "section": "Equipe technique",
+    "text": "Equipe technique\n\n\n\n\n\n\n\n\n Benjamin Ennerser-Serville\n\n\nRéférent Technique\n\n\n\n\n  Marc Meillasson"
+  },
+  {
+    "objectID": "team.html#équipe-de-direction",
+    "href": "team.html#équipe-de-direction",
+    "title": "Équipe du LF2L",
+    "section": "",
+    "text": "Laure Morel\n\n\nProfesseur, Directrice de l’ENSGSI\n\n\n\n\n  Mauricio Camargo\n\n\nProfesseur, Directeur de l’ERPI\n\n\n\n\n  Laurent Dupont\n\n\nResponsable scientifique du LF2L"
+  },
+  {
+    "objectID": "team.html#équipe-technique",
+    "href": "team.html#équipe-technique",
+    "title": "Équipe du LF2L",
+    "section": "Équipe technique",
+    "text": "Équipe technique\n\n\n\n\n\n\n\n\n Benjamin Ennerser-Serville\n\n\nRéférent Technique\n\n\n\n\n  Marc Meillasson"
+  },
+  {
+    "objectID": "team.html#équipe-de-stagiares",
+    "href": "team.html#équipe-de-stagiares",
+    "title": "Équipe du LF2L",
+    "section": "Équipe de Stagiares",
+    "text": "Équipe de Stagiares\n\n\n\n\n\n\n Tamara Dumanyan\n\n\n  Mjellma Luzha"
   }
 ]
