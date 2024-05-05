@@ -34,7 +34,7 @@ website:
 
   page-footer:
     background: light
-    left: "Copyright 2024, ERPI et ENSGSI <br> Powered by [Quarto](https://quarto.org/) v1.3.24"
+    left: "Copyright 2024, ERPI et ENSGSI <br> Powered by [Quarto](https://quarto.org/) v1.4.554"
     center: 
       - icon: github
         href: https://github.com/
