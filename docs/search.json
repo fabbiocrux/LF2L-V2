@@ -254,28 +254,28 @@
   {
     "objectID": "info.html",
     "href": "info.html",
-    "title": "Practical info of Lorraine Fab Living Lab",
+    "title": "Nous retrouver",
     "section": "",
-    "text": "overlay_image: assets/images/banners/LF2L-5.jpg"
+    "text": "Plan Acces to LF2L\n\n\n\n\n\n\n\n\nAvertissement\n\n\n\nAttention travaux conséquents dans le quartier. L’accès par le tram n’est plus assuré… Privilégiez la marche ou le vélo ! NB : le stationnement pour les voitures est payant. Le parking a proximité du LF2L est reservé aux abonnés."
   },
   {
     "objectID": "info.html#access",
     "href": "info.html#access",
-    "title": "Practical info of Lorraine Fab Living Lab",
+    "title": "Nous retrouver",
     "section": "Access",
     "text": "Access\n\n\n\n\n\nPlan Acces to LF2L"
   },
   {
     "objectID": "info.html#schedule",
     "href": "info.html#schedule",
-    "title": "Practical info of Lorraine Fab Living Lab",
+    "title": "Nous retrouver",
     "section": "Schedule",
     "text": "Schedule\n\nMonday - Friday: 9:00am - 12:00pm and 13:30pm - 17:00pm"
   },
   {
     "objectID": "info.html#contact-information",
     "href": "info.html#contact-information",
-    "title": "Practical info of Lorraine Fab Living Lab",
+    "title": "Nous retrouver",
     "section": "Contact information",
     "text": "Contact information\n\n&lt;a href=\"https://lf2l.wufoo.com/forms/mspzvpa1bdexyq/\"&gt; Fill out my Wufoo form! &lt;/a&gt;"
   },
@@ -656,5 +656,26 @@
     "title": "Équipe du LF2L",
     "section": "Équipe de Stagiares",
     "text": "Équipe de Stagiares\n\n\n\n\n\n\n Tamara Dumanyan\n\n\n  Mjellma Luzha"
+  },
+  {
+    "objectID": "info.html#info-pratique-du-lorraine-fab-living-lab",
+    "href": "info.html#info-pratique-du-lorraine-fab-living-lab",
+    "title": "Nous retrouver",
+    "section": "",
+    "text": "Plan Acces to LF2L\n\n\n\n\n\n\n\n\nAvertissement\n\n\n\nAttention travaux conséquents dans le quartier. L’accès par le tram n’est plus assuré… Privilégiez la marche ou le vélo ! NB : le stationnement pour les voitures est payant. Le parking a proximité du LF2L est reservé aux abonnés."
+  },
+  {
+    "objectID": "info.html#horaire",
+    "href": "info.html#horaire",
+    "title": "Nous retrouver",
+    "section": "Horaire",
+    "text": "Horaire\n\nLundi - Vendredi: 9:00am - 12:00pm and 13:30pm - 17:00pm"
+  },
+  {
+    "objectID": "team.html#jirai-innover-chez-vous-avec-le-1er-fab-lab-mobile-de-france",
+    "href": "team.html#jirai-innover-chez-vous-avec-le-1er-fab-lab-mobile-de-france",
+    "title": "Équipe du LF2L",
+    "section": "J’irai innover chez vous… avec le 1er Fab Lab Mobile de France !",
+    "text": "J’irai innover chez vous… avec le 1er Fab Lab Mobile de France !\n\n\nMultiplier les voies d’accès à l’innovation est le pari gagné par l’ENSGSI et l’ERPI grâce au Fab Lab Mobile ! Grâce au Conseil Régional de Lorraine et à l’Université de Lorraine qui ont permis cet investissement, ainsi qu’à l’AGEFA PME et la CGPME Lorraine qui financent la première année de fonctionnement, la Lorraine est la première région en France à se doter d’un tel outil. Concept original, ce Fab Lab embarqué est né de la volonté d’aller au plus près des entreprises et des citoyens pour stimuler leur capacité de création et d’expérimentation. En gommant les frontières (géographique, temporelle, économique, sociale, culturelle), le Fab Lab Mobile inverse donc la relation initiale d’accès à la technologie et apporte l’innovation dans les entreprises, les villes, les écoles, les lycées… Cette démarche proactive instaure une nouvelle proximité avec les usagers.\nAnticipant les besoins des entreprises, l’ENSGSI et le laboratoire ERPI développent des réponses originales et innovantes en phase avec l’écosystème local. Ainsi, l’aménagement d’espaces n’est pas toujours envisageable ou pertinent (durée de la mission, contraintes techniques, locaux inadaptés, etc.) Les collaborateurs des PME-PMI ne peuvent pas forcement se déplacer jusqu’au cœur de l’agglomération nancéienne.\nL’enjeu prioritaire auquel veulent répondre les acteurs et partenaires du Lorraine Fab Living Lab® est d’initier et d’animer une dynamique de réflexion collective sur notre environnement de vie et les enjeux de société pour y apporter des réponses partagées dont le développement passe notamment par la création ou le renouvellement de produits, processus, voire d’organisation. Pour mener à bien cette mission et toucher les acteurs économiques au plus près de leurs pôles d’activités, le Lorraine Fab Living Lab® conçoit et développe des réponses concrètes avec un dispositif routier.\nSource :\n\nMorel, L., Dupont, L., Lhoste, P., When innovation supported by fab labs becomes a tool for territorial economic development: example of the first mobile fab lab in France. Conference Proceedings of the 24th International Conference on Management of Technology. Cape Town, South Africa, June 8-10, 2015, pp. 772-786.\n\n\n\n\nLF2L"
   }
 ]

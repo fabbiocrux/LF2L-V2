@@ -1,6 +1,7 @@
 ---
 title: "À propos"
 title-fr: "Concept du LF2L"
+toc: true
 format:
  html:    
    template-partials: 

@@ -4,7 +4,10 @@ project:
 
 
 website:
-  favicon: assets/favicon.png  
+  favicon: assets/favicon.png
+  search: 
+    location: navbar
+    type: overlay  
   bread-crumbs: true
   reader-mode: false
   open-graph: true
@@ -41,11 +44,11 @@ website:
         href: /
       - icon: twitter
         href: /
-    # right: 
-    #   - icon: github
-    #     href: https://github.com/
-    #   - icon: instagram
-    #     href: /        
+    right: 
+      - text: "**Nous Retrouver** <br> 49 Boulevard d'austrasie, 54000 Nancy, France"
+        href: info.qmd 
+      # - icon: instagram
+      #   href: info.qmd        
     #   - icon: linkedin
     #     href: /
     #   - icon: twitter

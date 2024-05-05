@@ -1,20 +1,23 @@
 ---
-title: Practical info of Lorraine Fab Living Lab
+title: Nous retrouver
 excerpt: A scientific expertise to support your projects
+page-layout: article
 ---
 
-overlay_image: assets/images/banners/LF2L-5.jpg
 
-## Access 
+## Info pratique du Lorraine Fab Living Lab
 
 <iframe src="https://www.google.com/maps/d/embed?mid=zjoguh0NVOXo.kZTYPT-5FrXA"  width="100%" height="500px"></iframe>
 
-![Plan Acces to LF2L](/assets/images/6-info/plan-acces-LF2L.jpg)
+![Plan Acces to LF2L](images/6-info/plan-acces-LF2L.jpg)
 
+::: {.callout-warning}
+Attention travaux conséquents dans le quartier. L’accès par le tram n’est plus assuré… Privilégiez la marche ou le vélo ! NB : le stationnement pour les voitures est payant. Le parking a proximité du LF2L est reservé aux abonnés.
+:::
 
-## Schedule
+## Horaire
 
-- **Monday - Friday**: 9:00am - 12:00pm and 13:30pm - 17:00pm 
+- **Lundi - Vendredi**: 9:00am - 12:00pm and 13:30pm - 17:00pm 
 
 ## Contact information
 
