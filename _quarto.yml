@@ -4,7 +4,10 @@ project:
 
 
 website:
-  favicon: assets/favicon.png  
+  favicon: assets/favicon.png
+  search: 
+    location: navbar
+    type: overlay  
   bread-crumbs: true
   reader-mode: false
   open-graph: true
@@ -13,7 +16,7 @@ website:
   #repo-actions: [edit, issue]
   title: ""
   navbar:
-    logo: images/UL-ENSGSI-ERPI.svg
+    logo: images/LF2l-Navigation-02.svg
     pinned: false
     background: primary
     foreground: white
@@ -23,7 +26,7 @@ website:
 
     right:
       - href: about.qmd
-#      - href: news.qmd
+      - href: blog.qmd
       - href: project.qmd      
       - href: publications.qmd      
       - href: community.qmd
@@ -31,7 +34,7 @@ website:
 
   page-footer:
     background: light
-    left: "Copyright 2024, ERPI et ENSGSI <br> Powered by [Quarto](https://quarto.org/) v1.3.24"
+    left: "Copyright 2024, ERPI et ENSGSI <br> Powered by [Quarto](https://quarto.org/) v1.4.554"
     center: 
       - icon: github
         href: https://github.com/
@@ -41,11 +44,11 @@ website:
         href: /
       - icon: twitter
         href: /
-    # right: 
-    #   - icon: github
-    #     href: https://github.com/
-    #   - icon: instagram
-    #     href: /        
+    right: 
+      - href: documents.qmd        
+      - text: "**Nous Retrouver** <br> 49 Boulevard d'Austrasie,<br> 54000 Nancy, France"
+        href: info.qmd 
+
     #   - icon: linkedin
     #     href: /
     #   - icon: twitter
@@ -55,12 +58,15 @@ format:
   html:    
     #include-in-header: assets/header.html  
     #include-before-body: assets/header.html  
+    bibliography: assets/bibliography.bib
     page-layout: full
     theme:
       - cosmo          
       - styles.scss
     css: assets/fabio.css  
-    toc: true
+    toc: false
+#    template-partials: 
+#      - partials/title-block.html  
 
 
 

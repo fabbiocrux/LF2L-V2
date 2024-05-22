@@ -2,18 +2,44 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/2024-04-09-LF2L/index.fr.html"
+      "/posts/2024/04/25/index.html",
+      "/posts/2024/04/09/index.html"
     ]
   },
   {
-    "listing": "/news.html",
-    "items": [
-      "/posts/2024-04-09-LF2L/index.fr.html"
-    ]
+    "listing": "/index-2.html",
+    "items": []
   },
   {
     "listing": "/projects/green-fablab/index.html",
     "items": []
+  },
+  {
+    "listing": "/index.en.html",
+    "items": [
+      "/posts/2021/2021-04-22-Societe-inclusive.html"
+    ]
+  },
+  {
+    "listing": "/blog.en.html",
+    "items": []
+  },
+  {
+    "listing": "/news.en.html",
+    "items": [
+      "/posts/2021/2021-04-22-Societe-inclusive.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/2024/04/25/index.html",
+      "/posts/2024/04/09/index.html"
+    ]
   },
   {
     "listing": "/project.html",
@@ -21,26 +47,6 @@
       "/projects/extended-reality/index.html",
       "/projects/green-fablab/index.html",
       "/projects/open-citizen-lab/index.html"
-    ]
-  },
-  {
-    "listing": "/index.en.html",
-    "items": [
-      "/posts/2024-04-09-LF2L/index.html",
-      "/posts/2018-04-09-ENOLL/index.html"
-    ]
-  },
-  {
-    "listing": "/blog.en.html",
-    "items": [
-      "/posts/2024-04-09-LF2L/index.fr.html"
-    ]
-  },
-  {
-    "listing": "/news.en.html",
-    "items": [
-      "/posts/2018-04-09-ENOLL/index.html",
-      "/posts/2024-04-09-LF2L/index.html"
     ]
   }
 ]

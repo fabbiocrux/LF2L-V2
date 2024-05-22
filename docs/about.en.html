@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.550">
+<meta name="generator" content="quarto-1.4.554">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -52,7 +52,6 @@ ul.task-list li input[type="checkbox"] {
     "/",
     "s"
   ],
-  "show-item-context": false,
   "language": {
     "search-no-results-text": "Pas de résultats",
     "search-matching-documents-text": "documents trouvés",
@@ -70,8 +69,7 @@ ul.task-list li input[type="checkbox"] {
 <style>
 
       .quarto-title-block .quarto-title-banner {
-        background-image: url(assets/img/banners/banner01.jpg);
-background-size: cover;
+        background: assets/img/banners/banner01.jpg;
       }
 </style>
 
@@ -89,7 +87,7 @@ background-size: cover;
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/UL-ENSGSI-ERPI.svg" alt="" class="navbar-logo">
+    <img src="./images/LF2l-Navigation-02.svg" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Recherche"></div>
@@ -100,7 +98,7 @@ background-size: cover;
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">A propos</span></a>
+<span class="menu-text">À propos</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./project.html"> 
@@ -108,7 +106,7 @@ background-size: cover;
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
-<span class="menu-text">Publications</span></a>
+<span class="menu-text">Dissemination</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./community.html"> 
@@ -129,14 +127,14 @@ background-size: cover;
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
+    <div class="quarto-title column-page">
       <h1 class="title">About us</h1>
             <p class="subtitle lead">Fab Living Lab</p>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta column-page">
 
       
     
@@ -147,26 +145,9 @@ background-size: cover;
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Sur cette page</h2>
-   
-  <ul>
-  <li><a href="#concept-fab-living-lab" id="toc-concept-fab-living-lab" class="nav-link active" data-scroll-target="#concept-fab-living-lab">Concept Fab Living Lab</a>
-  <ul class="collapse">
-  <li><a href="#enter-the-4th-dimension-of-innovation" id="toc-enter-the-4th-dimension-of-innovation" class="nav-link" data-scroll-target="#enter-the-4th-dimension-of-innovation">Enter the 4th dimension of Innovation!</a></li>
-  <li><a href="#they-trusted-us" id="toc-they-trusted-us" class="nav-link" data-scroll-target="#they-trusted-us">They trusted us:</a></li>
-  </ul></li>
-  <li><a href="#chartes" id="toc-chartes" class="nav-link" data-scroll-target="#chartes">Chartes</a></li>
-  <li><a href="#partners" id="toc-partners" class="nav-link" data-scroll-target="#partners">Partners</a>
-  <ul class="collapse">
-  <li><a href="#sources" id="toc-sources" class="nav-link" data-scroll-target="#sources">Sources</a></li>
-  </ul></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
 
 
 
@@ -323,6 +304,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/fabbiocrux\.github\.io\/LF2L-V2\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -357,7 +356,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
@@ -635,7 +638,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Copyright 2024, ERPI et ENSGSI <br> Powered by <a href="https://quarto.org/">Quarto</a> v1.3.24</p>
+<p>Copyright 2024, ERPI et ENSGSI <br> Powered by <a href="https://quarto.org/">Quarto</a> v1.4.554</p>
 </div>   
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
@@ -666,7 +669,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </ul>
     </div>
     <div class="nav-footer-right">
-      &nbsp;
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="./documents.html">
+<p><strong>Documents</strong></p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="./info.html">
+<p><strong>Nous Retrouver</strong> <br> 49 Boulevard d’Austrasie,<br> 54000 Nancy, France</p>
+</a>
+  </li>  
+</ul>
     </div>
   </div>
 </footer>
