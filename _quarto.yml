@@ -16,7 +16,7 @@ website:
   #repo-actions: [edit, issue]
   title: ""
   navbar:
-    logo: images/LF2l-Navigation-02.svg
+    logo: images/LF2l-Navigation-03.svg
     pinned: false
     background: primary
     foreground: white
@@ -26,10 +26,10 @@ website:
 
     right:
       - href: about.qmd
-      - href: blog.qmd
-      - href: project.qmd      
+      - href: blog/index.qmd
+      #- href: project.qmd      
       - href: publications.qmd      
-      - href: community.qmd
+      #- href: community.qmd
       - href: team.qmd
 
   page-footer:

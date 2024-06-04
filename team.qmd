@@ -40,7 +40,7 @@ Responsable scientifique du LF2L
 
 ::: {layout="[30,30,30]"}
 :::{}
-[![](images/6-info/equipe/Benjamin2.png){width="80%" fig-align="center"} **Benjamin Ennerser-Serville**](https://ensgsi.univ-lorraine.fr/enseignant/laure-morel/)
+[![](images/6-info/equipe/Benjamin2.png){width="80%" fig-align="center"} **Benjamin Ennerser-Serville**](https://ensgsi.univ-lorraine.fr/personnels/benjamin-enesser-serville/)
 
 Référent Technique
 :::
@@ -51,7 +51,7 @@ Référent Technique
 :::
 
 
-## Équipe de Stagiares 2024 - 2024
+## Équipe de Stagiares 2023 - 2024
 
 ::: {layout="[30,30,30]"}
 
@@ -82,7 +82,7 @@ En 2023, le Ministère de l’Enseignement Supérieur et de la Recherche a mis e
 
 :::
 
-
+<!-- 
 ::: {layout="[[50,50],[30,30,30, 30, 30]]"}
 
 ![Espace Materialisation](images/5-place/Materialisation.jpeg){group="my-gallery"}
@@ -100,7 +100,7 @@ En 2023, le Ministère de l’Enseignement Supérieur et de la Recherche a mis e
 ![Évaluation par l’Usage](images/Image-to-find.jpg){group="my-gallery"}
 :::
 
-
+ -->
 
 
 
@@ -118,7 +118,7 @@ L’enjeu prioritaire auquel veulent répondre les acteurs et partenaires du Lor
 
 ::: {.callout-tip}
 **Plus de details:** <br>
-* Morel, L., Dupont, L., Lhoste, P., [When innovation supported by fab labs becomes a tool for territorial economic development: example of the first mobile fab lab in France](https://hal.archives-ouvertes.fr/hal-01333488). Conference Proceedings of the 24th International Conference on Management of Technology. Cape Town, South Africa, June 8-10, 2015, pp. 772-786.
+Morel, L., Dupont, L., Lhoste, P., [When innovation supported by fab labs becomes a tool for territorial economic development: example of the first mobile fab lab in France](https://hal.archives-ouvertes.fr/hal-01333488). Conference Proceedings of the 24th International Conference on Management of Technology. Cape Town, South Africa, June 8-10, 2015, pp. 772-786.
 :::
 
 
